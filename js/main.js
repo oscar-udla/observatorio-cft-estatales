@@ -87,7 +87,9 @@ function setupFilters() {
     sortedCfts.forEach(cft => {
         const option = document.createElement("option");
         option.value = cft.id;
-        option.textContent = `${cft.nombre} (${cft.sede_principal})`;
+        // Limpiar cualquier ciudad entre paréntesis en el nombre oficial y no agregar la sede principal entre paréntesis
+        const cleanName = cft.nombre.replace(/\s*\(.*?\)\s*/g, "").trim();
+        option.textContent = cleanName;
         cftFilter.appendChild(option);
     });
     
