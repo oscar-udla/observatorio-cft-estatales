@@ -1,0 +1,5042 @@
+[
+  {
+    "cft_id": "cft_arica",
+    "anio": 2018,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_arica",
+    "anio": 2018,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_arica",
+    "anio": 2019,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_arica",
+    "anio": 2019,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_arica",
+    "anio": 2020,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_arica",
+    "anio": 2020,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_arica",
+    "anio": 2021,
+    "nivel": "Pregrado",
+    "matricula_total": 2357,
+    "matricula_primer_anio": 854,
+    "hombres": 773,
+    "mujeres": 1584,
+    "jornada_diurna": 834,
+    "jornada_vespertina": 1523,
+    "retencion_1er_anio": 70.0,
+    "tasa_desercion": 30.0,
+    "matricula_por_area": {
+      "Tecnología": 329,
+      "Administración y Comercio": 373,
+      "Salud": 178,
+      "Educación": 786,
+      "Recursos Naturales": 691
+    }
+  },
+  {
+    "cft_id": "cft_arica",
+    "anio": 2021,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_arica",
+    "anio": 2022,
+    "nivel": "Pregrado",
+    "matricula_total": 2348,
+    "matricula_primer_anio": 871,
+    "hombres": 886,
+    "mujeres": 1462,
+    "jornada_diurna": 948,
+    "jornada_vespertina": 1400,
+    "retencion_1er_anio": 71.8,
+    "tasa_desercion": 28.2,
+    "matricula_por_area": {
+      "Tecnología": 462,
+      "Administración y Comercio": 544,
+      "Salud": 253,
+      "Educación": 572,
+      "Recursos Naturales": 517
+    }
+  },
+  {
+    "cft_id": "cft_arica",
+    "anio": 2022,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_arica",
+    "anio": 2023,
+    "nivel": "Pregrado",
+    "matricula_total": 2247,
+    "matricula_primer_anio": 935,
+    "hombres": 979,
+    "mujeres": 1268,
+    "jornada_diurna": 962,
+    "jornada_vespertina": 1285,
+    "retencion_1er_anio": 71.1,
+    "tasa_desercion": 28.9,
+    "matricula_por_area": {
+      "Tecnología": 575,
+      "Administración y Comercio": 696,
+      "Salud": 331,
+      "Educación": 306,
+      "Recursos Naturales": 339
+    }
+  },
+  {
+    "cft_id": "cft_arica",
+    "anio": 2023,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_arica",
+    "anio": 2024,
+    "nivel": "Pregrado",
+    "matricula_total": 2669,
+    "matricula_primer_anio": 1369,
+    "hombres": 1103,
+    "mujeres": 1566,
+    "jornada_diurna": 1166,
+    "jornada_vespertina": 1503,
+    "retencion_1er_anio": 70.7,
+    "tasa_desercion": 29.3,
+    "matricula_por_area": {
+      "Tecnología": 712,
+      "Administración y Comercio": 688,
+      "Salud": 411,
+      "Educación": 323,
+      "Recursos Naturales": 535
+    }
+  },
+  {
+    "cft_id": "cft_arica",
+    "anio": 2024,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_arica",
+    "anio": 2025,
+    "nivel": "Pregrado",
+    "matricula_total": 2816,
+    "matricula_primer_anio": 1221,
+    "hombres": 1078,
+    "mujeres": 1738,
+    "jornada_diurna": 1206,
+    "jornada_vespertina": 1610,
+    "retencion_1er_anio": 69.4,
+    "tasa_desercion": 30.6,
+    "matricula_por_area": {
+      "Tecnología": 732,
+      "Administración y Comercio": 536,
+      "Salud": 489,
+      "Educación": 365,
+      "Recursos Naturales": 694
+    }
+  },
+  {
+    "cft_id": "cft_arica",
+    "anio": 2025,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_tarapaca",
+    "anio": 2018,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_tarapaca",
+    "anio": 2018,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_tarapaca",
+    "anio": 2019,
+    "nivel": "Pregrado",
+    "matricula_total": 315,
+    "matricula_primer_anio": 315,
+    "hombres": 146,
+    "mujeres": 169,
+    "jornada_diurna": 111,
+    "jornada_vespertina": 204,
+    "retencion_1er_anio": 68.4,
+    "tasa_desercion": 31.6,
+    "matricula_por_area": {
+      "Tecnología": 95,
+      "Administración y Comercio": 220,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_tarapaca",
+    "anio": 2019,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_tarapaca",
+    "anio": 2020,
+    "nivel": "Pregrado",
+    "matricula_total": 826,
+    "matricula_primer_anio": 637,
+    "hombres": 282,
+    "mujeres": 544,
+    "jornada_diurna": 362,
+    "jornada_vespertina": 464,
+    "retencion_1er_anio": 68.1,
+    "tasa_desercion": 31.9,
+    "matricula_por_area": {
+      "Tecnología": 169,
+      "Administración y Comercio": 327,
+      "Salud": 89,
+      "Educación": 113,
+      "Recursos Naturales": 128
+    }
+  },
+  {
+    "cft_id": "cft_tarapaca",
+    "anio": 2020,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_tarapaca",
+    "anio": 2021,
+    "nivel": "Pregrado",
+    "matricula_total": 1214,
+    "matricula_primer_anio": 658,
+    "hombres": 388,
+    "mujeres": 826,
+    "jornada_diurna": 530,
+    "jornada_vespertina": 684,
+    "retencion_1er_anio": 70.5,
+    "tasa_desercion": 29.5,
+    "matricula_por_area": {
+      "Tecnología": 206,
+      "Administración y Comercio": 416,
+      "Salud": 214,
+      "Educación": 220,
+      "Recursos Naturales": 158
+    }
+  },
+  {
+    "cft_id": "cft_tarapaca",
+    "anio": 2021,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_tarapaca",
+    "anio": 2022,
+    "nivel": "Pregrado",
+    "matricula_total": 1267,
+    "matricula_primer_anio": 565,
+    "hombres": 357,
+    "mujeres": 910,
+    "jornada_diurna": 488,
+    "jornada_vespertina": 779,
+    "retencion_1er_anio": 69.7,
+    "tasa_desercion": 30.3,
+    "matricula_por_area": {
+      "Tecnología": 163,
+      "Administración y Comercio": 341,
+      "Salud": 292,
+      "Educación": 317,
+      "Recursos Naturales": 154
+    }
+  },
+  {
+    "cft_id": "cft_tarapaca",
+    "anio": 2022,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_tarapaca",
+    "anio": 2023,
+    "nivel": "Pregrado",
+    "matricula_total": 1417,
+    "matricula_primer_anio": 688,
+    "hombres": 393,
+    "mujeres": 1024,
+    "jornada_diurna": 532,
+    "jornada_vespertina": 885,
+    "retencion_1er_anio": 70.0,
+    "tasa_desercion": 30.0,
+    "matricula_por_area": {
+      "Tecnología": 197,
+      "Administración y Comercio": 365,
+      "Salud": 364,
+      "Educación": 356,
+      "Recursos Naturales": 135
+    }
+  },
+  {
+    "cft_id": "cft_tarapaca",
+    "anio": 2023,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_tarapaca",
+    "anio": 2024,
+    "nivel": "Pregrado",
+    "matricula_total": 1549,
+    "matricula_primer_anio": 701,
+    "hombres": 394,
+    "mujeres": 1155,
+    "jornada_diurna": 566,
+    "jornada_vespertina": 983,
+    "retencion_1er_anio": 68.0,
+    "tasa_desercion": 32.0,
+    "matricula_por_area": {
+      "Tecnología": 206,
+      "Administración y Comercio": 412,
+      "Salud": 389,
+      "Educación": 423,
+      "Recursos Naturales": 119
+    }
+  },
+  {
+    "cft_id": "cft_tarapaca",
+    "anio": 2024,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_tarapaca",
+    "anio": 2025,
+    "nivel": "Pregrado",
+    "matricula_total": 1778,
+    "matricula_primer_anio": 816,
+    "hombres": 473,
+    "mujeres": 1305,
+    "jornada_diurna": 672,
+    "jornada_vespertina": 1106,
+    "retencion_1er_anio": 70.8,
+    "tasa_desercion": 29.2,
+    "matricula_por_area": {
+      "Tecnología": 263,
+      "Administración y Comercio": 476,
+      "Salud": 379,
+      "Educación": 412,
+      "Recursos Naturales": 248
+    }
+  },
+  {
+    "cft_id": "cft_tarapaca",
+    "anio": 2025,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_antofagasta",
+    "anio": 2018,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_antofagasta",
+    "anio": 2018,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_antofagasta",
+    "anio": 2019,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_antofagasta",
+    "anio": 2019,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_antofagasta",
+    "anio": 2020,
+    "nivel": "Pregrado",
+    "matricula_total": 62,
+    "matricula_primer_anio": 62,
+    "hombres": 15,
+    "mujeres": 47,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 62,
+    "retencion_1er_anio": 62.9,
+    "tasa_desercion": 37.1,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 27,
+      "Salud": 0,
+      "Educación": 35,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_antofagasta",
+    "anio": 2020,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_antofagasta",
+    "anio": 2021,
+    "nivel": "Pregrado",
+    "matricula_total": 179,
+    "matricula_primer_anio": 127,
+    "hombres": 37,
+    "mujeres": 142,
+    "jornada_diurna": 10,
+    "jornada_vespertina": 169,
+    "retencion_1er_anio": 61.0,
+    "tasa_desercion": 39.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 62,
+      "Salud": 0,
+      "Educación": 100,
+      "Recursos Naturales": 17
+    }
+  },
+  {
+    "cft_id": "cft_antofagasta",
+    "anio": 2021,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_antofagasta",
+    "anio": 2022,
+    "nivel": "Pregrado",
+    "matricula_total": 273,
+    "matricula_primer_anio": 134,
+    "hombres": 89,
+    "mujeres": 184,
+    "jornada_diurna": 39,
+    "jornada_vespertina": 234,
+    "retencion_1er_anio": 60.9,
+    "tasa_desercion": 39.1,
+    "matricula_por_area": {
+      "Tecnología": 64,
+      "Administración y Comercio": 66,
+      "Salud": 0,
+      "Educación": 118,
+      "Recursos Naturales": 25
+    }
+  },
+  {
+    "cft_id": "cft_antofagasta",
+    "anio": 2022,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_antofagasta",
+    "anio": 2023,
+    "nivel": "Pregrado",
+    "matricula_total": 463,
+    "matricula_primer_anio": 296,
+    "hombres": 162,
+    "mujeres": 301,
+    "jornada_diurna": 115,
+    "jornada_vespertina": 348,
+    "retencion_1er_anio": 61.0,
+    "tasa_desercion": 39.0,
+    "matricula_por_area": {
+      "Tecnología": 163,
+      "Administración y Comercio": 55,
+      "Salud": 66,
+      "Educación": 148,
+      "Recursos Naturales": 31
+    }
+  },
+  {
+    "cft_id": "cft_antofagasta",
+    "anio": 2023,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_antofagasta",
+    "anio": 2024,
+    "nivel": "Pregrado",
+    "matricula_total": 471,
+    "matricula_primer_anio": 258,
+    "hombres": 164,
+    "mujeres": 307,
+    "jornada_diurna": 155,
+    "jornada_vespertina": 316,
+    "retencion_1er_anio": 61.3,
+    "tasa_desercion": 38.7,
+    "matricula_por_area": {
+      "Tecnología": 179,
+      "Administración y Comercio": 40,
+      "Salud": 106,
+      "Educación": 122,
+      "Recursos Naturales": 24
+    }
+  },
+  {
+    "cft_id": "cft_antofagasta",
+    "anio": 2024,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_antofagasta",
+    "anio": 2025,
+    "nivel": "Pregrado",
+    "matricula_total": 526,
+    "matricula_primer_anio": 198,
+    "hombres": 156,
+    "mujeres": 370,
+    "jornada_diurna": 119,
+    "jornada_vespertina": 407,
+    "retencion_1er_anio": 62.0,
+    "tasa_desercion": 38.0,
+    "matricula_por_area": {
+      "Tecnología": 194,
+      "Administración y Comercio": 36,
+      "Salud": 110,
+      "Educación": 154,
+      "Recursos Naturales": 32
+    }
+  },
+  {
+    "cft_id": "cft_antofagasta",
+    "anio": 2025,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_atacama",
+    "anio": 2018,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_atacama",
+    "anio": 2018,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_atacama",
+    "anio": 2019,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_atacama",
+    "anio": 2019,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_atacama",
+    "anio": 2020,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_atacama",
+    "anio": 2020,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_atacama",
+    "anio": 2021,
+    "nivel": "Pregrado",
+    "matricula_total": 64,
+    "matricula_primer_anio": 64,
+    "hombres": 18,
+    "mujeres": 46,
+    "jornada_diurna": 28,
+    "jornada_vespertina": 36,
+    "retencion_1er_anio": 60.3,
+    "tasa_desercion": 39.7,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 64,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_atacama",
+    "anio": 2021,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_atacama",
+    "anio": 2022,
+    "nivel": "Pregrado",
+    "matricula_total": 113,
+    "matricula_primer_anio": 65,
+    "hombres": 43,
+    "mujeres": 70,
+    "jornada_diurna": 42,
+    "jornada_vespertina": 71,
+    "retencion_1er_anio": 59.9,
+    "tasa_desercion": 40.1,
+    "matricula_por_area": {
+      "Tecnología": 15,
+      "Administración y Comercio": 98,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_atacama",
+    "anio": 2022,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_atacama",
+    "anio": 2023,
+    "nivel": "Pregrado",
+    "matricula_total": 188,
+    "matricula_primer_anio": 111,
+    "hombres": 68,
+    "mujeres": 120,
+    "jornada_diurna": 63,
+    "jornada_vespertina": 125,
+    "retencion_1er_anio": 60.8,
+    "tasa_desercion": 39.2,
+    "matricula_por_area": {
+      "Tecnología": 36,
+      "Administración y Comercio": 106,
+      "Salud": 46,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_atacama",
+    "anio": 2023,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_atacama",
+    "anio": 2024,
+    "nivel": "Pregrado",
+    "matricula_total": 337,
+    "matricula_primer_anio": 224,
+    "hombres": 90,
+    "mujeres": 247,
+    "jornada_diurna": 125,
+    "jornada_vespertina": 212,
+    "retencion_1er_anio": 59.4,
+    "tasa_desercion": 40.6,
+    "matricula_por_area": {
+      "Tecnología": 44,
+      "Administración y Comercio": 101,
+      "Salud": 104,
+      "Educación": 88,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_atacama",
+    "anio": 2024,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_atacama",
+    "anio": 2025,
+    "nivel": "Pregrado",
+    "matricula_total": 402,
+    "matricula_primer_anio": 215,
+    "hombres": 100,
+    "mujeres": 302,
+    "jornada_diurna": 144,
+    "jornada_vespertina": 258,
+    "retencion_1er_anio": 59.9,
+    "tasa_desercion": 40.1,
+    "matricula_por_area": {
+      "Tecnología": 44,
+      "Administración y Comercio": 116,
+      "Salud": 127,
+      "Educación": 115,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_atacama",
+    "anio": 2025,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_coquimbo",
+    "anio": 2018,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_coquimbo",
+    "anio": 2018,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_coquimbo",
+    "anio": 2019,
+    "nivel": "Pregrado",
+    "matricula_total": 164,
+    "matricula_primer_anio": 164,
+    "hombres": 124,
+    "mujeres": 40,
+    "jornada_diurna": 87,
+    "jornada_vespertina": 77,
+    "retencion_1er_anio": 63.4,
+    "tasa_desercion": 36.6,
+    "matricula_por_area": {
+      "Tecnología": 142,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 22
+    }
+  },
+  {
+    "cft_id": "cft_coquimbo",
+    "anio": 2019,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_coquimbo",
+    "anio": 2020,
+    "nivel": "Pregrado",
+    "matricula_total": 475,
+    "matricula_primer_anio": 362,
+    "hombres": 317,
+    "mujeres": 158,
+    "jornada_diurna": 254,
+    "jornada_vespertina": 221,
+    "retencion_1er_anio": 63.7,
+    "tasa_desercion": 36.3,
+    "matricula_por_area": {
+      "Tecnología": 325,
+      "Administración y Comercio": 114,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 36
+    }
+  },
+  {
+    "cft_id": "cft_coquimbo",
+    "anio": 2020,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_coquimbo",
+    "anio": 2021,
+    "nivel": "Pregrado",
+    "matricula_total": 714,
+    "matricula_primer_anio": 370,
+    "hombres": 400,
+    "mujeres": 314,
+    "jornada_diurna": 402,
+    "jornada_vespertina": 312,
+    "retencion_1er_anio": 64.7,
+    "tasa_desercion": 35.3,
+    "matricula_por_area": {
+      "Tecnología": 388,
+      "Administración y Comercio": 140,
+      "Salud": 122,
+      "Educación": 0,
+      "Recursos Naturales": 64
+    }
+  },
+  {
+    "cft_id": "cft_coquimbo",
+    "anio": 2021,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_coquimbo",
+    "anio": 2022,
+    "nivel": "Pregrado",
+    "matricula_total": 975,
+    "matricula_primer_anio": 548,
+    "hombres": 489,
+    "mujeres": 486,
+    "jornada_diurna": 456,
+    "jornada_vespertina": 519,
+    "retencion_1er_anio": 62.9,
+    "tasa_desercion": 37.1,
+    "matricula_por_area": {
+      "Tecnología": 424,
+      "Administración y Comercio": 276,
+      "Salud": 204,
+      "Educación": 0,
+      "Recursos Naturales": 71
+    }
+  },
+  {
+    "cft_id": "cft_coquimbo",
+    "anio": 2022,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_coquimbo",
+    "anio": 2023,
+    "nivel": "Pregrado",
+    "matricula_total": 1196,
+    "matricula_primer_anio": 558,
+    "hombres": 562,
+    "mujeres": 634,
+    "jornada_diurna": 601,
+    "jornada_vespertina": 595,
+    "retencion_1er_anio": 63.8,
+    "tasa_desercion": 36.2,
+    "matricula_por_area": {
+      "Tecnología": 442,
+      "Administración y Comercio": 363,
+      "Salud": 304,
+      "Educación": 0,
+      "Recursos Naturales": 87
+    }
+  },
+  {
+    "cft_id": "cft_coquimbo",
+    "anio": 2023,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_coquimbo",
+    "anio": 2024,
+    "nivel": "Pregrado",
+    "matricula_total": 1440,
+    "matricula_primer_anio": 695,
+    "hombres": 644,
+    "mujeres": 796,
+    "jornada_diurna": 659,
+    "jornada_vespertina": 781,
+    "retencion_1er_anio": 64.1,
+    "tasa_desercion": 35.9,
+    "matricula_por_area": {
+      "Tecnología": 518,
+      "Administración y Comercio": 492,
+      "Salud": 343,
+      "Educación": 0,
+      "Recursos Naturales": 87
+    }
+  },
+  {
+    "cft_id": "cft_coquimbo",
+    "anio": 2024,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_coquimbo",
+    "anio": 2025,
+    "nivel": "Pregrado",
+    "matricula_total": 1496,
+    "matricula_primer_anio": 703,
+    "hombres": 587,
+    "mujeres": 909,
+    "jornada_diurna": 645,
+    "jornada_vespertina": 851,
+    "retencion_1er_anio": 62.4,
+    "tasa_desercion": 37.6,
+    "matricula_por_area": {
+      "Tecnología": 488,
+      "Administración y Comercio": 506,
+      "Salud": 382,
+      "Educación": 50,
+      "Recursos Naturales": 70
+    }
+  },
+  {
+    "cft_id": "cft_coquimbo",
+    "anio": 2025,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_valparaiso",
+    "anio": 2018,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_valparaiso",
+    "anio": 2018,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_valparaiso",
+    "anio": 2019,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_valparaiso",
+    "anio": 2019,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_valparaiso",
+    "anio": 2020,
+    "nivel": "Pregrado",
+    "matricula_total": 522,
+    "matricula_primer_anio": 389,
+    "hombres": 171,
+    "mujeres": 351,
+    "jornada_diurna": 276,
+    "jornada_vespertina": 246,
+    "retencion_1er_anio": 63.7,
+    "tasa_desercion": 36.3,
+    "matricula_por_area": {
+      "Tecnología": 73,
+      "Administración y Comercio": 215,
+      "Salud": 167,
+      "Educación": 0,
+      "Recursos Naturales": 67
+    }
+  },
+  {
+    "cft_id": "cft_valparaiso",
+    "anio": 2020,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_valparaiso",
+    "anio": 2021,
+    "nivel": "Pregrado",
+    "matricula_total": 757,
+    "matricula_primer_anio": 360,
+    "hombres": 241,
+    "mujeres": 516,
+    "jornada_diurna": 357,
+    "jornada_vespertina": 400,
+    "retencion_1er_anio": 62.4,
+    "tasa_desercion": 37.6,
+    "matricula_por_area": {
+      "Tecnología": 96,
+      "Administración y Comercio": 279,
+      "Salud": 259,
+      "Educación": 0,
+      "Recursos Naturales": 123
+    }
+  },
+  {
+    "cft_id": "cft_valparaiso",
+    "anio": 2021,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_valparaiso",
+    "anio": 2022,
+    "nivel": "Pregrado",
+    "matricula_total": 881,
+    "matricula_primer_anio": 439,
+    "hombres": 304,
+    "mujeres": 577,
+    "jornada_diurna": 406,
+    "jornada_vespertina": 475,
+    "retencion_1er_anio": 62.1,
+    "tasa_desercion": 37.9,
+    "matricula_por_area": {
+      "Tecnología": 145,
+      "Administración y Comercio": 343,
+      "Salud": 257,
+      "Educación": 0,
+      "Recursos Naturales": 136
+    }
+  },
+  {
+    "cft_id": "cft_valparaiso",
+    "anio": 2022,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_valparaiso",
+    "anio": 2023,
+    "nivel": "Pregrado",
+    "matricula_total": 1227,
+    "matricula_primer_anio": 733,
+    "hombres": 399,
+    "mujeres": 828,
+    "jornada_diurna": 613,
+    "jornada_vespertina": 614,
+    "retencion_1er_anio": 64.7,
+    "tasa_desercion": 35.3,
+    "matricula_por_area": {
+      "Tecnología": 202,
+      "Administración y Comercio": 435,
+      "Salud": 419,
+      "Educación": 0,
+      "Recursos Naturales": 171
+    }
+  },
+  {
+    "cft_id": "cft_valparaiso",
+    "anio": 2023,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_valparaiso",
+    "anio": 2024,
+    "nivel": "Pregrado",
+    "matricula_total": 1550,
+    "matricula_primer_anio": 811,
+    "hombres": 525,
+    "mujeres": 1025,
+    "jornada_diurna": 736,
+    "jornada_vespertina": 814,
+    "retencion_1er_anio": 64.8,
+    "tasa_desercion": 35.2,
+    "matricula_por_area": {
+      "Tecnología": 381,
+      "Administración y Comercio": 468,
+      "Salud": 501,
+      "Educación": 0,
+      "Recursos Naturales": 200
+    }
+  },
+  {
+    "cft_id": "cft_valparaiso",
+    "anio": 2024,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_valparaiso",
+    "anio": 2025,
+    "nivel": "Pregrado",
+    "matricula_total": 1877,
+    "matricula_primer_anio": 949,
+    "hombres": 642,
+    "mujeres": 1235,
+    "jornada_diurna": 941,
+    "jornada_vespertina": 936,
+    "retencion_1er_anio": 64.3,
+    "tasa_desercion": 35.7,
+    "matricula_por_area": {
+      "Tecnología": 553,
+      "Administración y Comercio": 466,
+      "Salud": 635,
+      "Educación": 0,
+      "Recursos Naturales": 223
+    }
+  },
+  {
+    "cft_id": "cft_valparaiso",
+    "anio": 2025,
+    "nivel": "Postítulo",
+    "matricula_total": 57,
+    "matricula_primer_anio": 57,
+    "hombres": 6,
+    "mujeres": 51,
+    "jornada_diurna": 43,
+    "jornada_vespertina": 14,
+    "retencion_1er_anio": 62.8,
+    "tasa_desercion": 37.2,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 14,
+      "Salud": 43,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_metropolitana",
+    "anio": 2018,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_metropolitana",
+    "anio": 2018,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_metropolitana",
+    "anio": 2019,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_metropolitana",
+    "anio": 2019,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_metropolitana",
+    "anio": 2020,
+    "nivel": "Pregrado",
+    "matricula_total": 41,
+    "matricula_primer_anio": 41,
+    "hombres": 22,
+    "mujeres": 19,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 41,
+    "retencion_1er_anio": 56.1,
+    "tasa_desercion": 43.9,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 41,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_metropolitana",
+    "anio": 2020,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_metropolitana",
+    "anio": 2021,
+    "nivel": "Pregrado",
+    "matricula_total": 118,
+    "matricula_primer_anio": 94,
+    "hombres": 84,
+    "mujeres": 34,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 118,
+    "retencion_1er_anio": 57.9,
+    "tasa_desercion": 42.1,
+    "matricula_por_area": {
+      "Tecnología": 29,
+      "Administración y Comercio": 60,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 29
+    }
+  },
+  {
+    "cft_id": "cft_metropolitana",
+    "anio": 2021,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_metropolitana",
+    "anio": 2022,
+    "nivel": "Pregrado",
+    "matricula_total": 124,
+    "matricula_primer_anio": 61,
+    "hombres": 79,
+    "mujeres": 45,
+    "jornada_diurna": 3,
+    "jornada_vespertina": 121,
+    "retencion_1er_anio": 57.1,
+    "tasa_desercion": 42.9,
+    "matricula_por_area": {
+      "Tecnología": 39,
+      "Administración y Comercio": 62,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 23
+    }
+  },
+  {
+    "cft_id": "cft_metropolitana",
+    "anio": 2022,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_metropolitana",
+    "anio": 2023,
+    "nivel": "Pregrado",
+    "matricula_total": 330,
+    "matricula_primer_anio": 262,
+    "hombres": 208,
+    "mujeres": 122,
+    "jornada_diurna": 34,
+    "jornada_vespertina": 296,
+    "retencion_1er_anio": 56.2,
+    "tasa_desercion": 43.8,
+    "matricula_por_area": {
+      "Tecnología": 118,
+      "Administración y Comercio": 170,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 42
+    }
+  },
+  {
+    "cft_id": "cft_metropolitana",
+    "anio": 2023,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_metropolitana",
+    "anio": 2024,
+    "nivel": "Pregrado",
+    "matricula_total": 409,
+    "matricula_primer_anio": 241,
+    "hombres": 209,
+    "mujeres": 200,
+    "jornada_diurna": 31,
+    "jornada_vespertina": 378,
+    "retencion_1er_anio": 57.3,
+    "tasa_desercion": 42.7,
+    "matricula_por_area": {
+      "Tecnología": 132,
+      "Administración y Comercio": 232,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 45
+    }
+  },
+  {
+    "cft_id": "cft_metropolitana",
+    "anio": 2024,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_metropolitana",
+    "anio": 2025,
+    "nivel": "Pregrado",
+    "matricula_total": 959,
+    "matricula_primer_anio": 680,
+    "hombres": 371,
+    "mujeres": 588,
+    "jornada_diurna": 30,
+    "jornada_vespertina": 929,
+    "retencion_1er_anio": 55.9,
+    "tasa_desercion": 44.1,
+    "matricula_por_area": {
+      "Tecnología": 226,
+      "Administración y Comercio": 429,
+      "Salud": 149,
+      "Educación": 0,
+      "Recursos Naturales": 155
+    }
+  },
+  {
+    "cft_id": "cft_metropolitana",
+    "anio": 2025,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_ohiggins",
+    "anio": 2018,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_ohiggins",
+    "anio": 2018,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_ohiggins",
+    "anio": 2019,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_ohiggins",
+    "anio": 2019,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_ohiggins",
+    "anio": 2020,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_ohiggins",
+    "anio": 2020,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_ohiggins",
+    "anio": 2021,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_ohiggins",
+    "anio": 2021,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_ohiggins",
+    "anio": 2022,
+    "nivel": "Pregrado",
+    "matricula_total": 117,
+    "matricula_primer_anio": 117,
+    "hombres": 22,
+    "mujeres": 95,
+    "jornada_diurna": 59,
+    "jornada_vespertina": 58,
+    "retencion_1er_anio": 77.2,
+    "tasa_desercion": 22.8,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 59,
+      "Salud": 0,
+      "Educación": 58,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_ohiggins",
+    "anio": 2022,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_ohiggins",
+    "anio": 2023,
+    "nivel": "Pregrado",
+    "matricula_total": 487,
+    "matricula_primer_anio": 389,
+    "hombres": 133,
+    "mujeres": 354,
+    "jornada_diurna": 219,
+    "jornada_vespertina": 268,
+    "retencion_1er_anio": 75.3,
+    "tasa_desercion": 24.7,
+    "matricula_por_area": {
+      "Tecnología": 58,
+      "Administración y Comercio": 163,
+      "Salud": 101,
+      "Educación": 165,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_ohiggins",
+    "anio": 2023,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_ohiggins",
+    "anio": 2024,
+    "nivel": "Pregrado",
+    "matricula_total": 972,
+    "matricula_primer_anio": 564,
+    "hombres": 282,
+    "mujeres": 690,
+    "jornada_diurna": 488,
+    "jornada_vespertina": 484,
+    "retencion_1er_anio": 76.5,
+    "tasa_desercion": 23.5,
+    "matricula_por_area": {
+      "Tecnología": 118,
+      "Administración y Comercio": 288,
+      "Salud": 222,
+      "Educación": 281,
+      "Recursos Naturales": 63
+    }
+  },
+  {
+    "cft_id": "cft_ohiggins",
+    "anio": 2024,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_ohiggins",
+    "anio": 2025,
+    "nivel": "Pregrado",
+    "matricula_total": 1599,
+    "matricula_primer_anio": 883,
+    "hombres": 481,
+    "mujeres": 1118,
+    "jornada_diurna": 939,
+    "jornada_vespertina": 660,
+    "retencion_1er_anio": 75.4,
+    "tasa_desercion": 24.6,
+    "matricula_por_area": {
+      "Tecnología": 249,
+      "Administración y Comercio": 365,
+      "Salud": 420,
+      "Educación": 396,
+      "Recursos Naturales": 169
+    }
+  },
+  {
+    "cft_id": "cft_ohiggins",
+    "anio": 2025,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_maule",
+    "anio": 2018,
+    "nivel": "Pregrado",
+    "matricula_total": 117,
+    "matricula_primer_anio": 117,
+    "hombres": 71,
+    "mujeres": 46,
+    "jornada_diurna": 62,
+    "jornada_vespertina": 55,
+    "retencion_1er_anio": 72.3,
+    "tasa_desercion": 27.7,
+    "matricula_por_area": {
+      "Tecnología": 53,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 64
+    }
+  },
+  {
+    "cft_id": "cft_maule",
+    "anio": 2018,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_maule",
+    "anio": 2019,
+    "nivel": "Pregrado",
+    "matricula_total": 366,
+    "matricula_primer_anio": 287,
+    "hombres": 181,
+    "mujeres": 185,
+    "jornada_diurna": 194,
+    "jornada_vespertina": 172,
+    "retencion_1er_anio": 72.3,
+    "tasa_desercion": 27.7,
+    "matricula_por_area": {
+      "Tecnología": 95,
+      "Administración y Comercio": 58,
+      "Salud": 0,
+      "Educación": 76,
+      "Recursos Naturales": 137
+    }
+  },
+  {
+    "cft_id": "cft_maule",
+    "anio": 2019,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_maule",
+    "anio": 2020,
+    "nivel": "Pregrado",
+    "matricula_total": 526,
+    "matricula_primer_anio": 269,
+    "hombres": 249,
+    "mujeres": 277,
+    "jornada_diurna": 300,
+    "jornada_vespertina": 226,
+    "retencion_1er_anio": 71.3,
+    "tasa_desercion": 28.7,
+    "matricula_por_area": {
+      "Tecnología": 155,
+      "Administración y Comercio": 91,
+      "Salud": 0,
+      "Educación": 142,
+      "Recursos Naturales": 138
+    }
+  },
+  {
+    "cft_id": "cft_maule",
+    "anio": 2020,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_maule",
+    "anio": 2021,
+    "nivel": "Pregrado",
+    "matricula_total": 597,
+    "matricula_primer_anio": 254,
+    "hombres": 217,
+    "mujeres": 380,
+    "jornada_diurna": 307,
+    "jornada_vespertina": 290,
+    "retencion_1er_anio": 73.6,
+    "tasa_desercion": 26.4,
+    "matricula_por_area": {
+      "Tecnología": 143,
+      "Administración y Comercio": 90,
+      "Salud": 0,
+      "Educación": 235,
+      "Recursos Naturales": 129
+    }
+  },
+  {
+    "cft_id": "cft_maule",
+    "anio": 2021,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_maule",
+    "anio": 2022,
+    "nivel": "Pregrado",
+    "matricula_total": 562,
+    "matricula_primer_anio": 259,
+    "hombres": 214,
+    "mujeres": 348,
+    "jornada_diurna": 241,
+    "jornada_vespertina": 321,
+    "retencion_1er_anio": 73.0,
+    "tasa_desercion": 27.0,
+    "matricula_por_area": {
+      "Tecnología": 163,
+      "Administración y Comercio": 45,
+      "Salud": 97,
+      "Educación": 183,
+      "Recursos Naturales": 74
+    }
+  },
+  {
+    "cft_id": "cft_maule",
+    "anio": 2022,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_maule",
+    "anio": 2023,
+    "nivel": "Pregrado",
+    "matricula_total": 1095,
+    "matricula_primer_anio": 755,
+    "hombres": 388,
+    "mujeres": 707,
+    "jornada_diurna": 371,
+    "jornada_vespertina": 724,
+    "retencion_1er_anio": 73.5,
+    "tasa_desercion": 26.5,
+    "matricula_por_area": {
+      "Tecnología": 291,
+      "Administración y Comercio": 39,
+      "Salud": 304,
+      "Educación": 338,
+      "Recursos Naturales": 123
+    }
+  },
+  {
+    "cft_id": "cft_maule",
+    "anio": 2023,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_maule",
+    "anio": 2024,
+    "nivel": "Pregrado",
+    "matricula_total": 1259,
+    "matricula_primer_anio": 532,
+    "hombres": 448,
+    "mujeres": 811,
+    "jornada_diurna": 374,
+    "jornada_vespertina": 885,
+    "retencion_1er_anio": 73.4,
+    "tasa_desercion": 26.6,
+    "matricula_por_area": {
+      "Tecnología": 339,
+      "Administración y Comercio": 38,
+      "Salud": 445,
+      "Educación": 341,
+      "Recursos Naturales": 96
+    }
+  },
+  {
+    "cft_id": "cft_maule",
+    "anio": 2024,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_maule",
+    "anio": 2025,
+    "nivel": "Pregrado",
+    "matricula_total": 1447,
+    "matricula_primer_anio": 560,
+    "hombres": 478,
+    "mujeres": 969,
+    "jornada_diurna": 424,
+    "jornada_vespertina": 1023,
+    "retencion_1er_anio": 72.5,
+    "tasa_desercion": 27.5,
+    "matricula_por_area": {
+      "Tecnología": 347,
+      "Administración y Comercio": 29,
+      "Salud": 464,
+      "Educación": 376,
+      "Recursos Naturales": 231
+    }
+  },
+  {
+    "cft_id": "cft_maule",
+    "anio": 2025,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_biobio",
+    "anio": 2018,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_biobio",
+    "anio": 2018,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_biobio",
+    "anio": 2019,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_biobio",
+    "anio": 2019,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_biobio",
+    "anio": 2020,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_biobio",
+    "anio": 2020,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_biobio",
+    "anio": 2021,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_biobio",
+    "anio": 2021,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_biobio",
+    "anio": 2022,
+    "nivel": "Pregrado",
+    "matricula_total": 103,
+    "matricula_primer_anio": 103,
+    "hombres": 19,
+    "mujeres": 84,
+    "jornada_diurna": 50,
+    "jornada_vespertina": 53,
+    "retencion_1er_anio": 73.5,
+    "tasa_desercion": 26.5,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 52,
+      "Salud": 0,
+      "Educación": 51,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_biobio",
+    "anio": 2022,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_biobio",
+    "anio": 2023,
+    "nivel": "Pregrado",
+    "matricula_total": 274,
+    "matricula_primer_anio": 190,
+    "hombres": 60,
+    "mujeres": 214,
+    "jornada_diurna": 103,
+    "jornada_vespertina": 171,
+    "retencion_1er_anio": 71.0,
+    "tasa_desercion": 29.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 83,
+      "Salud": 49,
+      "Educación": 111,
+      "Recursos Naturales": 31
+    }
+  },
+  {
+    "cft_id": "cft_biobio",
+    "anio": 2023,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_biobio",
+    "anio": 2024,
+    "nivel": "Pregrado",
+    "matricula_total": 592,
+    "matricula_primer_anio": 439,
+    "hombres": 106,
+    "mujeres": 486,
+    "jornada_diurna": 251,
+    "jornada_vespertina": 341,
+    "retencion_1er_anio": 71.3,
+    "tasa_desercion": 28.7,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 128,
+      "Salud": 105,
+      "Educación": 159,
+      "Recursos Naturales": 200
+    }
+  },
+  {
+    "cft_id": "cft_biobio",
+    "anio": 2024,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_biobio",
+    "anio": 2025,
+    "nivel": "Pregrado",
+    "matricula_total": 635,
+    "matricula_primer_anio": 312,
+    "hombres": 89,
+    "mujeres": 546,
+    "jornada_diurna": 302,
+    "jornada_vespertina": 333,
+    "retencion_1er_anio": 70.8,
+    "tasa_desercion": 29.2,
+    "matricula_por_area": {
+      "Tecnología": 19,
+      "Administración y Comercio": 114,
+      "Salud": 114,
+      "Educación": 81,
+      "Recursos Naturales": 307
+    }
+  },
+  {
+    "cft_id": "cft_biobio",
+    "anio": 2025,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_araucania",
+    "anio": 2018,
+    "nivel": "Pregrado",
+    "matricula_total": 92,
+    "matricula_primer_anio": 92,
+    "hombres": 50,
+    "mujeres": 42,
+    "jornada_diurna": 28,
+    "jornada_vespertina": 64,
+    "retencion_1er_anio": 77.6,
+    "tasa_desercion": 22.4,
+    "matricula_por_area": {
+      "Tecnología": 42,
+      "Administración y Comercio": 50,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_araucania",
+    "anio": 2018,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_araucania",
+    "anio": 2019,
+    "nivel": "Pregrado",
+    "matricula_total": 180,
+    "matricula_primer_anio": 118,
+    "hombres": 110,
+    "mujeres": 70,
+    "jornada_diurna": 64,
+    "jornada_vespertina": 116,
+    "retencion_1er_anio": 77.8,
+    "tasa_desercion": 22.2,
+    "matricula_por_area": {
+      "Tecnología": 89,
+      "Administración y Comercio": 91,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_araucania",
+    "anio": 2019,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_araucania",
+    "anio": 2020,
+    "nivel": "Pregrado",
+    "matricula_total": 281,
+    "matricula_primer_anio": 150,
+    "hombres": 179,
+    "mujeres": 102,
+    "jornada_diurna": 104,
+    "jornada_vespertina": 177,
+    "retencion_1er_anio": 77.4,
+    "tasa_desercion": 22.6,
+    "matricula_por_area": {
+      "Tecnología": 150,
+      "Administración y Comercio": 131,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_araucania",
+    "anio": 2020,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_araucania",
+    "anio": 2021,
+    "nivel": "Pregrado",
+    "matricula_total": 236,
+    "matricula_primer_anio": 84,
+    "hombres": 143,
+    "mujeres": 93,
+    "jornada_diurna": 72,
+    "jornada_vespertina": 164,
+    "retencion_1er_anio": 79.1,
+    "tasa_desercion": 20.9,
+    "matricula_por_area": {
+      "Tecnología": 123,
+      "Administración y Comercio": 113,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_araucania",
+    "anio": 2021,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_araucania",
+    "anio": 2022,
+    "nivel": "Pregrado",
+    "matricula_total": 426,
+    "matricula_primer_anio": 297,
+    "hombres": 219,
+    "mujeres": 207,
+    "jornada_diurna": 108,
+    "jornada_vespertina": 318,
+    "retencion_1er_anio": 77.7,
+    "tasa_desercion": 22.3,
+    "matricula_por_area": {
+      "Tecnología": 181,
+      "Administración y Comercio": 151,
+      "Salud": 56,
+      "Educación": 38,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_araucania",
+    "anio": 2022,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_araucania",
+    "anio": 2023,
+    "nivel": "Pregrado",
+    "matricula_total": 916,
+    "matricula_primer_anio": 607,
+    "hombres": 348,
+    "mujeres": 568,
+    "jornada_diurna": 303,
+    "jornada_vespertina": 613,
+    "retencion_1er_anio": 77.4,
+    "tasa_desercion": 22.6,
+    "matricula_por_area": {
+      "Tecnología": 273,
+      "Administración y Comercio": 194,
+      "Salud": 209,
+      "Educación": 240,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_araucania",
+    "anio": 2023,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_araucania",
+    "anio": 2024,
+    "nivel": "Pregrado",
+    "matricula_total": 1480,
+    "matricula_primer_anio": 752,
+    "hombres": 505,
+    "mujeres": 975,
+    "jornada_diurna": 537,
+    "jornada_vespertina": 943,
+    "retencion_1er_anio": 78.2,
+    "tasa_desercion": 21.8,
+    "matricula_por_area": {
+      "Tecnología": 389,
+      "Administración y Comercio": 244,
+      "Salud": 412,
+      "Educación": 435,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_araucania",
+    "anio": 2024,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_araucania",
+    "anio": 2025,
+    "nivel": "Pregrado",
+    "matricula_total": 1886,
+    "matricula_primer_anio": 848,
+    "hombres": 614,
+    "mujeres": 1272,
+    "jornada_diurna": 762,
+    "jornada_vespertina": 1124,
+    "retencion_1er_anio": 77.0,
+    "tasa_desercion": 23.0,
+    "matricula_por_area": {
+      "Tecnología": 454,
+      "Administración y Comercio": 295,
+      "Salud": 559,
+      "Educación": 578,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_araucania",
+    "anio": 2025,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_los_rios",
+    "anio": 2018,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_los_rios",
+    "anio": 2018,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_los_rios",
+    "anio": 2019,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_los_rios",
+    "anio": 2019,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_los_rios",
+    "anio": 2020,
+    "nivel": "Pregrado",
+    "matricula_total": 264,
+    "matricula_primer_anio": 264,
+    "hombres": 144,
+    "mujeres": 120,
+    "jornada_diurna": 78,
+    "jornada_vespertina": 186,
+    "retencion_1er_anio": 60.7,
+    "tasa_desercion": 39.3,
+    "matricula_por_area": {
+      "Tecnología": 162,
+      "Administración y Comercio": 21,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 81
+    }
+  },
+  {
+    "cft_id": "cft_los_rios",
+    "anio": 2020,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_los_rios",
+    "anio": 2021,
+    "nivel": "Pregrado",
+    "matricula_total": 436,
+    "matricula_primer_anio": 273,
+    "hombres": 215,
+    "mujeres": 221,
+    "jornada_diurna": 122,
+    "jornada_vespertina": 314,
+    "retencion_1er_anio": 58.5,
+    "tasa_desercion": 41.5,
+    "matricula_por_area": {
+      "Tecnología": 234,
+      "Administración y Comercio": 46,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 156
+    }
+  },
+  {
+    "cft_id": "cft_los_rios",
+    "anio": 2021,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_los_rios",
+    "anio": 2022,
+    "nivel": "Pregrado",
+    "matricula_total": 763,
+    "matricula_primer_anio": 478,
+    "hombres": 401,
+    "mujeres": 362,
+    "jornada_diurna": 163,
+    "jornada_vespertina": 600,
+    "retencion_1er_anio": 61.3,
+    "tasa_desercion": 38.7,
+    "matricula_por_area": {
+      "Tecnología": 393,
+      "Administración y Comercio": 63,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 307
+    }
+  },
+  {
+    "cft_id": "cft_los_rios",
+    "anio": 2022,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_los_rios",
+    "anio": 2023,
+    "nivel": "Pregrado",
+    "matricula_total": 934,
+    "matricula_primer_anio": 516,
+    "hombres": 520,
+    "mujeres": 414,
+    "jornada_diurna": 215,
+    "jornada_vespertina": 719,
+    "retencion_1er_anio": 60.6,
+    "tasa_desercion": 39.4,
+    "matricula_por_area": {
+      "Tecnología": 473,
+      "Administración y Comercio": 91,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 370
+    }
+  },
+  {
+    "cft_id": "cft_los_rios",
+    "anio": 2023,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_los_rios",
+    "anio": 2024,
+    "nivel": "Pregrado",
+    "matricula_total": 1297,
+    "matricula_primer_anio": 743,
+    "hombres": 697,
+    "mujeres": 600,
+    "jornada_diurna": 326,
+    "jornada_vespertina": 971,
+    "retencion_1er_anio": 58.9,
+    "tasa_desercion": 41.1,
+    "matricula_por_area": {
+      "Tecnología": 676,
+      "Administración y Comercio": 95,
+      "Salud": 64,
+      "Educación": 0,
+      "Recursos Naturales": 462
+    }
+  },
+  {
+    "cft_id": "cft_los_rios",
+    "anio": 2024,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_los_rios",
+    "anio": 2025,
+    "nivel": "Pregrado",
+    "matricula_total": 1596,
+    "matricula_primer_anio": 857,
+    "hombres": 827,
+    "mujeres": 769,
+    "jornada_diurna": 552,
+    "jornada_vespertina": 1044,
+    "retencion_1er_anio": 58.3,
+    "tasa_desercion": 41.7,
+    "matricula_por_area": {
+      "Tecnología": 778,
+      "Administración y Comercio": 102,
+      "Salud": 186,
+      "Educación": 0,
+      "Recursos Naturales": 530
+    }
+  },
+  {
+    "cft_id": "cft_los_rios",
+    "anio": 2025,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_los_lagos",
+    "anio": 2018,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_los_lagos",
+    "anio": 2018,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_los_lagos",
+    "anio": 2019,
+    "nivel": "Pregrado",
+    "matricula_total": 49,
+    "matricula_primer_anio": 28,
+    "hombres": 45,
+    "mujeres": 4,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 49,
+    "retencion_1er_anio": 73.0,
+    "tasa_desercion": 27.0,
+    "matricula_por_area": {
+      "Tecnología": 49,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_los_lagos",
+    "anio": 2019,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_los_lagos",
+    "anio": 2020,
+    "nivel": "Pregrado",
+    "matricula_total": 134,
+    "matricula_primer_anio": 120,
+    "hombres": 109,
+    "mujeres": 25,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 134,
+    "retencion_1er_anio": 72.7,
+    "tasa_desercion": 27.3,
+    "matricula_por_area": {
+      "Tecnología": 106,
+      "Administración y Comercio": 28,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_los_lagos",
+    "anio": 2020,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_los_lagos",
+    "anio": 2021,
+    "nivel": "Pregrado",
+    "matricula_total": 153,
+    "matricula_primer_anio": 50,
+    "hombres": 120,
+    "mujeres": 33,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 153,
+    "retencion_1er_anio": 72.8,
+    "tasa_desercion": 27.2,
+    "matricula_por_area": {
+      "Tecnología": 111,
+      "Administración y Comercio": 42,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_los_lagos",
+    "anio": 2021,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_los_lagos",
+    "anio": 2022,
+    "nivel": "Pregrado",
+    "matricula_total": 264,
+    "matricula_primer_anio": 175,
+    "hombres": 134,
+    "mujeres": 130,
+    "jornada_diurna": 30,
+    "jornada_vespertina": 234,
+    "retencion_1er_anio": 72.9,
+    "tasa_desercion": 27.1,
+    "matricula_por_area": {
+      "Tecnología": 115,
+      "Administración y Comercio": 96,
+      "Salud": 0,
+      "Educación": 53,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_los_lagos",
+    "anio": 2022,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_los_lagos",
+    "anio": 2023,
+    "nivel": "Pregrado",
+    "matricula_total": 329,
+    "matricula_primer_anio": 193,
+    "hombres": 116,
+    "mujeres": 213,
+    "jornada_diurna": 74,
+    "jornada_vespertina": 255,
+    "retencion_1er_anio": 70.8,
+    "tasa_desercion": 29.2,
+    "matricula_por_area": {
+      "Tecnología": 109,
+      "Administración y Comercio": 107,
+      "Salud": 0,
+      "Educación": 113,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_los_lagos",
+    "anio": 2023,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_los_lagos",
+    "anio": 2024,
+    "nivel": "Pregrado",
+    "matricula_total": 528,
+    "matricula_primer_anio": 274,
+    "hombres": 187,
+    "mujeres": 341,
+    "jornada_diurna": 102,
+    "jornada_vespertina": 426,
+    "retencion_1er_anio": 71.7,
+    "tasa_desercion": 28.3,
+    "matricula_por_area": {
+      "Tecnología": 161,
+      "Administración y Comercio": 153,
+      "Salud": 0,
+      "Educación": 184,
+      "Recursos Naturales": 30
+    }
+  },
+  {
+    "cft_id": "cft_los_lagos",
+    "anio": 2024,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_los_lagos",
+    "anio": 2025,
+    "nivel": "Pregrado",
+    "matricula_total": 644,
+    "matricula_primer_anio": 321,
+    "hombres": 219,
+    "mujeres": 425,
+    "jornada_diurna": 119,
+    "jornada_vespertina": 525,
+    "retencion_1er_anio": 70.9,
+    "tasa_desercion": 29.1,
+    "matricula_por_area": {
+      "Tecnología": 172,
+      "Administración y Comercio": 185,
+      "Salud": 0,
+      "Educación": 231,
+      "Recursos Naturales": 56
+    }
+  },
+  {
+    "cft_id": "cft_los_lagos",
+    "anio": 2025,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_aysen",
+    "anio": 2018,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_aysen",
+    "anio": 2018,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_aysen",
+    "anio": 2019,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_aysen",
+    "anio": 2019,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_aysen",
+    "anio": 2020,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_aysen",
+    "anio": 2020,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_aysen",
+    "anio": 2021,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_aysen",
+    "anio": 2021,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_aysen",
+    "anio": 2022,
+    "nivel": "Pregrado",
+    "matricula_total": 82,
+    "matricula_primer_anio": 82,
+    "hombres": 33,
+    "mujeres": 49,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 82,
+    "retencion_1er_anio": 92.0,
+    "tasa_desercion": 8.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 27,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 55
+    }
+  },
+  {
+    "cft_id": "cft_aysen",
+    "anio": 2022,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_aysen",
+    "anio": 2023,
+    "nivel": "Pregrado",
+    "matricula_total": 157,
+    "matricula_primer_anio": 91,
+    "hombres": 80,
+    "mujeres": 77,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 157,
+    "retencion_1er_anio": 91.3,
+    "tasa_desercion": 8.7,
+    "matricula_por_area": {
+      "Tecnología": 31,
+      "Administración y Comercio": 52,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 74
+    }
+  },
+  {
+    "cft_id": "cft_aysen",
+    "anio": 2023,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_aysen",
+    "anio": 2024,
+    "nivel": "Pregrado",
+    "matricula_total": 321,
+    "matricula_primer_anio": 195,
+    "hombres": 172,
+    "mujeres": 149,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 321,
+    "retencion_1er_anio": 90.4,
+    "tasa_desercion": 9.6,
+    "matricula_por_area": {
+      "Tecnología": 117,
+      "Administración y Comercio": 105,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 99
+    }
+  },
+  {
+    "cft_id": "cft_aysen",
+    "anio": 2024,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_aysen",
+    "anio": 2025,
+    "nivel": "Pregrado",
+    "matricula_total": 633,
+    "matricula_primer_anio": 368,
+    "hombres": 318,
+    "mujeres": 315,
+    "jornada_diurna": 47,
+    "jornada_vespertina": 586,
+    "retencion_1er_anio": 89.6,
+    "tasa_desercion": 10.4,
+    "matricula_por_area": {
+      "Tecnología": 268,
+      "Administración y Comercio": 152,
+      "Salud": 71,
+      "Educación": 47,
+      "Recursos Naturales": 95
+    }
+  },
+  {
+    "cft_id": "cft_aysen",
+    "anio": 2025,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_magallanes",
+    "anio": 2018,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_magallanes",
+    "anio": 2018,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_magallanes",
+    "anio": 2019,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_magallanes",
+    "anio": 2019,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_magallanes",
+    "anio": 2020,
+    "nivel": "Pregrado",
+    "matricula_total": 28,
+    "matricula_primer_anio": 28,
+    "hombres": 10,
+    "mujeres": 18,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 28,
+    "retencion_1er_anio": 60.3,
+    "tasa_desercion": 39.7,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 28,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_magallanes",
+    "anio": 2020,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_magallanes",
+    "anio": 2021,
+    "nivel": "Pregrado",
+    "matricula_total": 115,
+    "matricula_primer_anio": 95,
+    "hombres": 45,
+    "mujeres": 70,
+    "jornada_diurna": 18,
+    "jornada_vespertina": 97,
+    "retencion_1er_anio": 60.4,
+    "tasa_desercion": 39.6,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 40,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 75
+    }
+  },
+  {
+    "cft_id": "cft_magallanes",
+    "anio": 2021,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_magallanes",
+    "anio": 2022,
+    "nivel": "Pregrado",
+    "matricula_total": 137,
+    "matricula_primer_anio": 57,
+    "hombres": 57,
+    "mujeres": 80,
+    "jornada_diurna": 26,
+    "jornada_vespertina": 111,
+    "retencion_1er_anio": 61.6,
+    "tasa_desercion": 38.4,
+    "matricula_por_area": {
+      "Tecnología": 12,
+      "Administración y Comercio": 53,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 72
+    }
+  },
+  {
+    "cft_id": "cft_magallanes",
+    "anio": 2022,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_magallanes",
+    "anio": 2023,
+    "nivel": "Pregrado",
+    "matricula_total": 187,
+    "matricula_primer_anio": 95,
+    "hombres": 74,
+    "mujeres": 113,
+    "jornada_diurna": 43,
+    "jornada_vespertina": 144,
+    "retencion_1er_anio": 61.3,
+    "tasa_desercion": 38.7,
+    "matricula_por_area": {
+      "Tecnología": 19,
+      "Administración y Comercio": 42,
+      "Salud": 31,
+      "Educación": 0,
+      "Recursos Naturales": 95
+    }
+  },
+  {
+    "cft_id": "cft_magallanes",
+    "anio": 2023,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_magallanes",
+    "anio": 2024,
+    "nivel": "Pregrado",
+    "matricula_total": 167,
+    "matricula_primer_anio": 56,
+    "hombres": 67,
+    "mujeres": 100,
+    "jornada_diurna": 30,
+    "jornada_vespertina": 137,
+    "retencion_1er_anio": 62.1,
+    "tasa_desercion": 37.9,
+    "matricula_por_area": {
+      "Tecnología": 24,
+      "Administración y Comercio": 30,
+      "Salud": 28,
+      "Educación": 23,
+      "Recursos Naturales": 62
+    }
+  },
+  {
+    "cft_id": "cft_magallanes",
+    "anio": 2024,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_magallanes",
+    "anio": 2025,
+    "nivel": "Pregrado",
+    "matricula_total": 182,
+    "matricula_primer_anio": 94,
+    "hombres": 68,
+    "mujeres": 114,
+    "jornada_diurna": 11,
+    "jornada_vespertina": 171,
+    "retencion_1er_anio": 60.8,
+    "tasa_desercion": 39.2,
+    "matricula_por_area": {
+      "Tecnología": 26,
+      "Administración y Comercio": 34,
+      "Salud": 25,
+      "Educación": 29,
+      "Recursos Naturales": 68
+    }
+  },
+  {
+    "cft_id": "cft_magallanes",
+    "anio": 2025,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_nuble",
+    "anio": 2020,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_nuble",
+    "anio": 2020,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_nuble",
+    "anio": 2021,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_nuble",
+    "anio": 2021,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_nuble",
+    "anio": 2022,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_nuble",
+    "anio": 2022,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_nuble",
+    "anio": 2023,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_nuble",
+    "anio": 2023,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_nuble",
+    "anio": 2024,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_nuble",
+    "anio": 2024,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_nuble",
+    "anio": 2025,
+    "nivel": "Pregrado",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  },
+  {
+    "cft_id": "cft_nuble",
+    "anio": 2025,
+    "nivel": "Postítulo",
+    "matricula_total": 0,
+    "matricula_primer_anio": 0,
+    "hombres": 0,
+    "mujeres": 0,
+    "jornada_diurna": 0,
+    "jornada_vespertina": 0,
+    "retencion_1er_anio": 0.0,
+    "tasa_desercion": 0.0,
+    "matricula_por_area": {
+      "Tecnología": 0,
+      "Administración y Comercio": 0,
+      "Salud": 0,
+      "Educación": 0,
+      "Recursos Naturales": 0
+    }
+  }
+]

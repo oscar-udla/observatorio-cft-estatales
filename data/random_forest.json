@@ -1,0 +1,323 @@
+{
+  "r2_score": 0.3822589222465569,
+  "mae": 20.702044250244203,
+  "num_records": 404,
+  "features": [
+    "% Mujeres",
+    "% Origen Municipal",
+    "% Origen Técnico Prof.",
+    "Duración (Semestres)",
+    "Jornada (D/V)",
+    "Área de Estudio"
+  ],
+  "importances": [
+    0.3222314452254616,
+    0.1938115731472777,
+    0.24348241598128198,
+    0.08386133284555028,
+    0.03441090677093944,
+    0.12220232602948891
+  ],
+  "predictions": [
+    {
+      "label": "Tecnico De Nivel Superior En Construccion Mencion Eficiencia Energetica (Cft Los Rios - Diurna)",
+      "cft_id": "cft_los_rios",
+      "actual": 7.0,
+      "predicted": 31.6
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Proyectos Electricos De Distribucion (Cft Libertador General Bernardo O'higgins - Diurna)",
+      "cft_id": "cft_ohiggins",
+      "actual": 7.0,
+      "predicted": 30.7
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Administracion Publica (Cft Bio Bio - Vespertina)",
+      "cft_id": "cft_biobio",
+      "actual": 10.0,
+      "predicted": 53.2
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Proyectos Electricos De Distribucion (Cft Libertador General Bernardo O'higgins - Vespertina)",
+      "cft_id": "cft_ohiggins",
+      "actual": 11.0,
+      "predicted": 35.6
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Administracion De Empresas Mencion Gestion De Personas (Cft Santiago - Vespertina)",
+      "cft_id": "cft_metropolitana",
+      "actual": 13.0,
+      "predicted": 68.3
+    },
+    {
+      "label": "Administracion De Empresas (Cft Los Lagos - Vespertina)",
+      "cft_id": "cft_los_lagos",
+      "actual": 13.0,
+      "predicted": 42.4
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Analisis Y Programacion Computacional (Cft Santiago - Vespertina)",
+      "cft_id": "cft_metropolitana",
+      "actual": 14.0,
+      "predicted": 42.7
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Operacion Y Mantencion De Sistemas De Riego (Cft Maule - Diurna)",
+      "cft_id": "cft_maule",
+      "actual": 14.0,
+      "predicted": 35.0
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Construccion (Cft Coquimbo - Diurna)",
+      "cft_id": "cft_coquimbo",
+      "actual": 14.0,
+      "predicted": 27.3
+    },
+    {
+      "label": "Tecnico En Administracion Publica (Cft Magallanes y Antartica Chilena - Vespertina)",
+      "cft_id": "cft_magallanes",
+      "actual": 15.0,
+      "predicted": 21.9
+    },
+    {
+      "label": "Administracion Publica (Cft Los Lagos - Vespertina)",
+      "cft_id": "cft_los_lagos",
+      "actual": 16.0,
+      "predicted": 46.6
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Asistente Del Educador De Parvulos (Cft la Araucania - Vespertina)",
+      "cft_id": "cft_araucania",
+      "actual": 17.0,
+      "predicted": 44.2
+    },
+    {
+      "label": "Informatica Mencion En Ciberseguridad (Cft Los Lagos - Vespertina)",
+      "cft_id": "cft_los_lagos",
+      "actual": 18.0,
+      "predicted": 45.0
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Administracion De Empresas Mencion Gestion De Personas (Cft Santiago - Vespertina)",
+      "cft_id": "cft_metropolitana",
+      "actual": 21.0,
+      "predicted": 47.7
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Veterinaria (Cft Maule - Vespertina)",
+      "cft_id": "cft_maule",
+      "actual": 23.0,
+      "predicted": 40.2
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Comunicacion Audiovisual (Cft Los Rios - Vespertina)",
+      "cft_id": "cft_los_rios",
+      "actual": 26.0,
+      "predicted": 38.4
+    },
+    {
+      "label": "Educacion Especial Y Diferencial (Cft Los Lagos - Vespertina)",
+      "cft_id": "cft_los_lagos",
+      "actual": 27.0,
+      "predicted": 35.5
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Educacion Parvularia Mencion Inclusion (Cft Magallanes y Antartica Chilena - Vespertina)",
+      "cft_id": "cft_magallanes",
+      "actual": 29.0,
+      "predicted": 44.5
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Administracion Publica (Cft Aysen del General Carlos Ibañez del Campo - Vespertina)",
+      "cft_id": "cft_aysen",
+      "actual": 30.0,
+      "predicted": 35.4
+    },
+    {
+      "label": "Administracion Publica (Cft Santiago - Vespertina)",
+      "cft_id": "cft_metropolitana",
+      "actual": 30.0,
+      "predicted": 49.6
+    },
+    {
+      "label": "Contabilidad General (Cft Santiago - Vespertina)",
+      "cft_id": "cft_metropolitana",
+      "actual": 31.0,
+      "predicted": 53.9
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Enfermeria (Cft Libertador General Bernardo O'higgins - Vespertina)",
+      "cft_id": "cft_ohiggins",
+      "actual": 34.0,
+      "predicted": 79.0
+    },
+    {
+      "label": "Tecnico De Nivel Superior Electricidad Industrial (Cft Tarapaca - Diurna)",
+      "cft_id": "cft_tarapaca",
+      "actual": 34.0,
+      "predicted": 36.2
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Educacion Parvularia Primero Y Segundo Basico (Cft Atacama - Diurna)",
+      "cft_id": "cft_atacama",
+      "actual": 35.0,
+      "predicted": 41.4
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Administracion De Sistemas Logisticos (Cft Antofagasta - Vespertina)",
+      "cft_id": "cft_antofagasta",
+      "actual": 36.0,
+      "predicted": 53.6
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Construccion Mencion Eficiencia Energetica (Cft Los Rios - Vespertina)",
+      "cft_id": "cft_los_rios",
+      "actual": 39.0,
+      "predicted": 49.2
+    },
+    {
+      "label": "Tecnico De Nivel Superior Electrico En Energias Renovables (Cft Tarapaca - Vespertina)",
+      "cft_id": "cft_tarapaca",
+      "actual": 40.0,
+      "predicted": 34.8
+    },
+    {
+      "label": "Educacion Especial Y Diferencial (Cft Los Lagos - Diurna)",
+      "cft_id": "cft_los_lagos",
+      "actual": 41.0,
+      "predicted": 55.1
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Administracion Publica Privada (Cft Los Rios - Vespertina)",
+      "cft_id": "cft_los_rios",
+      "actual": 42.0,
+      "predicted": 52.5
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Enfermeria (Cft Atacama - Vespertina)",
+      "cft_id": "cft_atacama",
+      "actual": 44.0,
+      "predicted": 96.2
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Educacion Basica Con Especialidad En Inclusion (Cft Libertador General Bernardo O'higgins - Diurna)",
+      "cft_id": "cft_ohiggins",
+      "actual": 45.0,
+      "predicted": 46.7
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Electricidad Y Energias (Cft Valparaiso - Vespertina)",
+      "cft_id": "cft_valparaiso",
+      "actual": 46.0,
+      "predicted": 40.6
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Educacion Parvularia (Cft Libertador General Bernardo O'higgins - Vespertina)",
+      "cft_id": "cft_ohiggins",
+      "actual": 47.0,
+      "predicted": 41.7
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Operacion De Equipos Mineros (Cft Antofagasta - Diurna)",
+      "cft_id": "cft_antofagasta",
+      "actual": 48.0,
+      "predicted": 32.5
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Asistente De La Educacion (Cft Coquimbo - Vespertina)",
+      "cft_id": "cft_coquimbo",
+      "actual": 50.0,
+      "predicted": 46.1
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Educacion Parvularia Inclusiva (Cft Maule - Diurna)",
+      "cft_id": "cft_maule",
+      "actual": 51.0,
+      "predicted": 55.7
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Climatizacion Y Refrigeracion (Cft la Araucania - Vespertina)",
+      "cft_id": "cft_araucania",
+      "actual": 55.0,
+      "predicted": 35.4
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Administracion De Sistemas Logisticos (Cft Aysen del General Carlos Ibañez del Campo - Vespertina)",
+      "cft_id": "cft_aysen",
+      "actual": 56.0,
+      "predicted": 35.6
+    },
+    {
+      "label": "Tecnico De Nivel Superior Asistente De La Educacion (Cft Tarapaca - Diurna)",
+      "cft_id": "cft_tarapaca",
+      "actual": 61.0,
+      "predicted": 103.9
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Trabajo Social (Cft Arica y Parinacota - Vespertina)",
+      "cft_id": "cft_arica",
+      "actual": 64.0,
+      "predicted": 47.1
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Electricidad Mencion Energias Renovables (Cft Los Rios - Vespertina)",
+      "cft_id": "cft_los_rios",
+      "actual": 66.0,
+      "predicted": 47.9
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Mantenimiento Industrial (Cft Coquimbo - Diurna)",
+      "cft_id": "cft_coquimbo",
+      "actual": 72.0,
+      "predicted": 29.4
+    },
+    {
+      "label": "Tecnico En Enfermeria (Cft Santiago - Vespertina)",
+      "cft_id": "cft_metropolitana",
+      "actual": 79.0,
+      "predicted": 74.0
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Administracion De Empresas (Cft Arica y Parinacota - Vespertina)",
+      "cft_id": "cft_arica",
+      "actual": 86.0,
+      "predicted": 61.5
+    },
+    {
+      "label": "Gestion En Operaciones Portuarias (Cft Valparaiso - Vespertina)",
+      "cft_id": "cft_valparaiso",
+      "actual": 91.0,
+      "predicted": 51.4
+    },
+    {
+      "label": "Tns En Laboratorio Clinico Banco De Sangre E Imagenologia (Cft Arica y Parinacota - Vespertina)",
+      "cft_id": "cft_arica",
+      "actual": 94.0,
+      "predicted": 87.8
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Educacion Especial (Cft Arica y Parinacota - Vespertina)",
+      "cft_id": "cft_arica",
+      "actual": 102.0,
+      "predicted": 63.6
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Mecanica Automotriz (Cft Maule - Diurna)",
+      "cft_id": "cft_maule",
+      "actual": 103.0,
+      "predicted": 33.2
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Enfermeria (Cft Coquimbo - Vespertina)",
+      "cft_id": "cft_coquimbo",
+      "actual": 106.0,
+      "predicted": 47.1
+    },
+    {
+      "label": "Tecnico De Nivel Superior En Enfermeria Con Mencion En Gerontologia (Cft Arica y Parinacota - Vespertina)",
+      "cft_id": "cft_arica",
+      "actual": 166.0,
+      "predicted": 88.3
+    }
+  ]
+}

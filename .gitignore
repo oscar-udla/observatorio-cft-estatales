@@ -1,0 +1,12 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore raw data source files (contain >100MB CSV files)
+fuente-datos/
+data_science/__pycache__/
+*.pyc
+
+# Ignore scratch files and temporary logs
+scratch/
+*.log
+.system_generated/

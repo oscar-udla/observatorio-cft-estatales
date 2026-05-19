@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Portafolio profesional de Analista de Datos de Educación Superior en Chile. Visualización de estadísticas del SIES para el subsistema técnico-profesional y CFT Estatales.">
+    <title>Analista de Datos IES - Portafolio y Observatorio CFT Estatales</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header class="app-header">
+        <div class="header-container">
+            <div class="profile-info">
+                <div class="avatar-container">
+                    <div class="avatar-fallback">DA</div>
+                </div>
+                <div class="profile-details">
+                    <h1>Oscar Novoa</h1>
+                    <p class="subtitle">Analista de Datos de Educación Superior & Ciencia de Datos</p>
+                    <div class="badges">
+                        <span class="badge"><i class="fa-solid fa-graduation-cap"></i> Especialista IES Chile</span>
+                        <span class="badge"><i class="fa-solid fa-code"></i> Python / R / SQL</span>
+                        <span class="badge"><i class="fa-solid fa-chart-line"></i> BI & GIS</span>
+                    </div>
+                </div>
+            </div>
+            <div class="contact-links">
+                <a href="https://github.com/oscar-udla" target="_blank" class="contact-btn" id="github-link"><i class="fa-brands fa-github"></i> GitHub</a>
+                <a href="https://www.linkedin.com/in/oscar-n-b7936831" target="_blank" class="contact-btn" id="linkedin-link"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
+                <a href="mailto:oscar@puelolabs.cl" class="contact-btn" id="email-link"><i class="fa-solid fa-envelope"></i> Contacto</a>
+            </div>
+        </div>
+    </header>
+
+    <main class="app-main">
+        <!-- Resumen del Analista y Metodología -->
+        <section class="intro-section" id="profile-summary">
+            <div class="glass-card">
+                <h2><i class="fa-solid fa-user-tie icon-accent"></i> Perfil Profesional y Enfoque del Proyecto</h2>
+                <p>
+                    Como analista de datos especializado en educación superior en Chile, mi labor se centra en transformar las bases de datos públicas del <strong>SIES (Servicio de Información de Educación Superior)</strong> en información estratégica para la toma de decisiones. Este observatorio interactivo es una demostración de capacidades científicas y de visualización aplicada al <strong>subsistema Técnico-Profesional (TP)</strong>, centrándose específicamente en la nueva red de **Centros de Formación Técnica (CFT) Estatales** creados por la Ley 20.910 para descentralizar la educación técnico-profesional.
+                </p>
+                <div class="intro-grid">
+                    <div class="intro-metric">
+                        <span class="metric-val">16</span>
+                        <span class="metric-lbl">CFT Estatales Modelados</span>
+                    </div>
+                    <div class="intro-metric">
+                        <span class="metric-val">7 Años</span>
+                        <span class="metric-lbl">Periodo Histórico (2019-2025)</span>
+                    </div>
+                    <div class="intro-metric">
+                        <span class="metric-val">100%</span>
+                        <span class="metric-lbl">Código Abierto & Python Backend</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Observatorio Dashboard -->
+        <section class="dashboard-section" id="observatory-dashboard">
+            <div class="dashboard-header">
+                <div class="title-group">
+                    <h2>Observatorio Técnico-Profesional de CFT Estatales</h2>
+                    <p>Monitoreo dinámico de matrícula, titulación, retención y correlaciones estadísticas</p>
+                </div>
+                
+                <!-- Filtros del Dashboard -->
+                <div class="dashboard-filters">
+                    <div class="filter-group">
+                        <label for="cft-filter"><i class="fa-solid fa-university"></i> Institución:</label>
+                        <select id="cft-filter">
+                            <option value="todos">Todos los CFT Estatales</option>
+                            <!-- Se rellenará dinámicamente -->
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="year-filter"><i class="fa-solid fa-calendar-days"></i> Año Académico:</label>
+                        <select id="year-filter">
+                            <option value="2025" selected>2025</option>
+                            <option value="2024">2024</option>
+                            <option value="2023">2023</option>
+                            <option value="2022">2022</option>
+                            <option value="2021">2021</option>
+                            <option value="2020">2020</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="level-filter"><i class="fa-solid fa-graduation-cap"></i> Nivel de Estudio:</label>
+                        <select id="level-filter">
+                            <option value="todos" selected>Todos los Niveles</option>
+                            <option value="Pregrado">Pregrado</option>
+                            <option value="Postítulo">Postítulo</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Navegación por Pestañas -->
+            <nav class="dashboard-tabs" id="tabs-navigation">
+                <button class="tab-btn active" data-tab="matricula-tab" id="tab-matricula"><i class="fa-solid fa-users"></i> Matrícula y Acceso</button>
+                <button class="tab-btn" data-tab="mapa-tab" id="tab-mapa"><i class="fa-solid fa-map-location-dot"></i> Mapa de Sedes</button>
+                <button class="tab-btn" data-tab="titulados-tab" id="tab-titulados"><i class="fa-solid fa-user-graduate"></i> Titulación y Empleo</button>
+                <button class="tab-btn" data-tab="estadistica-tab" id="tab-estadistica"><i class="fa-solid fa-chart-pie"></i> Ciencia de Datos & Correlaciones</button>
+                <button class="tab-btn" data-tab="kmeans-tab" id="tab-kmeans"><i class="fa-solid fa-layer-group"></i> Tipología (K-Means)</button>
+                <button class="tab-btn" data-tab="rf-tab" id="tab-rf"><i class="fa-solid fa-brain"></i> Modelo (Random Forest)</button>
+            </nav>
+
+            <!-- KPIs Globales -->
+            <div class="kpi-grid" id="kpis-container">
+                <div class="kpi-card" id="kpi-total-enrollment">
+                    <div class="kpi-icon"><i class="fa-solid fa-user-group"></i></div>
+                    <div class="kpi-data">
+                        <span class="kpi-value" id="kpi-total-val">-</span>
+                        <span class="kpi-label">Matrícula Total</span>
+                    </div>
+                </div>
+                <div class="kpi-card" id="kpi-first-year">
+                    <div class="kpi-icon"><i class="fa-solid fa-user-plus"></i></div>
+                    <div class="kpi-data">
+                        <span class="kpi-value" id="kpi-first-val">-</span>
+                        <span class="kpi-label">Matrícula Primer Año</span>
+                    </div>
+                </div>
+                <div class="kpi-card" id="kpi-retention">
+                    <div class="kpi-icon"><i class="fa-solid fa-shield-halved"></i></div>
+                    <div class="kpi-data">
+                        <span class="kpi-value" id="kpi-retention-val">-</span>
+                        <span class="kpi-label">Tasa de Retención (1er año)</span>
+                    </div>
+                </div>
+                <div class="kpi-card" id="kpi-gender-ratio">
+                    <div class="kpi-icon"><i class="fa-solid fa-venus-mars"></i></div>
+                    <div class="kpi-data">
+                        <span class="kpi-value" id="kpi-gender-val">-</span>
+                        <span class="kpi-label">Participación Femenina</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Contenedores de Pestañas -->
+            <div class="tab-content-container">
+                
+                <!-- Pestaña 1: Matrícula -->
+                <div class="tab-content active" id="matricula-tab">
+                    <h2 class="section-title"><i class="fa-solid fa-users"></i> Matrícula y Acceso Estudiantil</h2>
+                    <div class="charts-row">
+                        <div class="chart-card glass-card">
+                            <h3><i class="fa-solid fa-chart-line"></i> Evolución de Matrícula (2019-2025)</h3>
+                            <div class="chart-wrapper">
+                                <canvas id="enrollmentEvolutionChart"></canvas>
+                            </div>
+                        </div>
+                        <div class="chart-card glass-card">
+                            <h3><i class="fa-solid fa-chart-column"></i> Matrícula por Región</h3>
+                            <div class="chart-wrapper">
+                                <canvas id="enrollmentRegionChart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="charts-row small-charts">
+                        <div class="chart-card glass-card">
+                            <h3><i class="fa-solid fa-clock"></i> Distribución de Jornadas</h3>
+                            <div class="chart-wrapper">
+                                <canvas id="scheduleChart"></canvas>
+                            </div>
+                        </div>
+                        <div class="chart-card glass-card">
+                            <h3><i class="fa-solid fa-briefcase"></i> Áreas de Conocimiento</h3>
+                            <div class="chart-wrapper">
+                                <canvas id="areaDistributionChart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Pestaña 2: Mapa Geográfico -->
+                <div class="tab-content" id="mapa-tab">
+                    <h2 class="section-title"><i class="fa-solid fa-map-location-dot"></i> Distribución Geográfica y Sedes</h2>
+                    <div class="map-layout">
+                        <div class="map-card glass-card">
+                            <h3><i class="fa-solid fa-location-dot"></i> Distribución Geográfica de la Red Estatal</h3>
+                            <p class="map-help-text">Haz clic en los marcadores para ver la información de matrícula, retención y rectoría de cada sede.</p>
+                            <div id="leaflet-map" style="height: 500px; width: 100%; border-radius: 8px;"></div>
+                        </div>
+                        <div class="map-details-card glass-card" id="map-selection-detail">
+                            <h3><i class="fa-solid fa-circle-info"></i> Detalle Institucional</h3>
+                            <div id="map-detail-placeholder">
+                                <p>Selecciona un CFT Estatal en el mapa para ver sus detalles específicos de infraestructura y rectoría.</p>
+                            </div>
+                            <div id="map-detail-content" class="hidden">
+                                <h4 id="detail-name" style="margin-bottom: 10px;">CFT Estatal</h4>
+                                
+                                <div class="detail-section">
+                                    <h5><i class="fa-solid fa-graduation-cap"></i> Identificación</h5>
+                                    <table class="detail-table">
+                                        <tr>
+                                            <th>Región:</th>
+                                            <td id="detail-region">-</td>
+                                        </tr>
+                                        <tr>
+                                            <th>Sede Principal:</th>
+                                            <td id="detail-sede">-</td>
+                                        </tr>
+                                        <tr>
+                                            <th>Sedes Vigentes:</th>
+                                            <td id="detail-sedes-list">-</td>
+                                        </tr>
+                                        <tr>
+                                            <th>Rector(a):</th>
+                                            <td id="detail-rector">-</td>
+                                        </tr>
+                                        <tr>
+                                            <th>Año Inicio:</th>
+                                            <td id="detail-fundacion">-</td>
+                                        </tr>
+                                        <tr>
+                                            <th>Sitio Web:</th>
+                                            <td><a href="#" id="detail-web" target="_blank">-</a></td>
+                                        </tr>
+                                    </table>
+                                </div>
+
+                                <div class="detail-section">
+                                    <h5><i class="fa-solid fa-building"></i> Infraestructura y Planta</h5>
+                                    <table class="detail-table">
+                                        <tr>
+                                            <th>Superficie Construida:</th>
+                                            <td id="detail-m2">-</td>
+                                        </tr>
+                                        <tr>
+                                            <th>Laboratorios y Talleres:</th>
+                                            <td id="detail-laboratorios">-</td>
+                                        </tr>
+                                        <tr>
+                                            <th>Computadores:</th>
+                                            <td id="detail-computadores">-</td>
+                                        </tr>
+                                        <tr>
+                                            <th>Docentes (JCE):</th>
+                                            <td id="detail-docentes">-</td>
+                                        </tr>
+                                        <tr>
+                                            <th>Posgrado Docente (M/D):</th>
+                                            <td id="detail-docentes-posgrado">-</td>
+                                        </tr>
+                                    </table>
+                                </div>
+
+                                <div class="detail-section">
+                                    <h5><i class="fa-solid fa-users"></i> Perfil e Inclusión Social</h5>
+                                    <table class="detail-table">
+                                        <tr>
+                                            <th>NEM Promedio Ingreso:</th>
+                                            <td id="detail-nem">-</td>
+                                        </tr>
+                                        <tr>
+                                            <th>Origen Municipal/SLE:</th>
+                                            <td id="detail-origen-municipal">-</td>
+                                        </tr>
+                                        <tr>
+                                            <th>Origen Subvencionado:</th>
+                                            <td id="detail-origen-subvencionado">-</td>
+                                        </tr>
+                                        <tr>
+                                            <th>Origen Particular:</th>
+                                            <td id="detail-origen-pagado">-</td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Pestaña 3: Titulación y Empleo -->
+                <div class="tab-content" id="titulados-tab">
+                    <h2 class="section-title"><i class="fa-solid fa-user-graduate"></i> Titulación e Inserción Laboral</h2>
+                    <div class="charts-row">
+                        <div class="chart-card glass-card">
+                            <h3><i class="fa-solid fa-graduation-cap"></i> Evolución de Titulados Históricos</h3>
+                            <div class="chart-wrapper">
+                                <canvas id="graduatesEvolutionChart"></canvas>
+                            </div>
+                        </div>
+                        <div class="chart-card glass-card">
+                            <h3><i class="fa-solid fa-money-bill-trend-up"></i> Empleabilidad al 1er Año e Ingresos</h3>
+                            <div class="chart-wrapper">
+                                <canvas id="employabilityChart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="data-table-container glass-card">
+                        <h3><i class="fa-solid fa-list"></i> Comparativa de Indicadores de Salida (2024)</h3>
+                        <div class="table-search-bar">
+                            <input type="text" id="table-search" placeholder="Buscar institución...">
+                        </div>
+                        <div class="table-scroll">
+                            <table class="data-table" id="graduates-table">
+                                <thead>
+                                    <tr>
+                                        <th data-sort="nombre">Institución <i class="fa-solid fa-sort"></i></th>
+                                        <th data-sort="titulados">Titulados <i class="fa-solid fa-sort"></i></th>
+                                        <th data-sort="duracion">Duración Real (semestres) <i class="fa-solid fa-sort"></i></th>
+                                        <th data-sort="empleabilidad">Empleabilidad 1er Año <i class="fa-solid fa-sort"></i></th>
+                                        <th data-sort="ingreso">Ingreso Promedio <i class="fa-solid fa-sort"></i></th>
+                                    </tr>
+                                </thead>
+                                <tbody id="table-body">
+                                    <!-- Se rellenará dinámicamente -->
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Pestaña 4: Ciencia de Datos -->
+                <div class="tab-content" id="estadistica-tab">
+                    <h2 class="section-title"><i class="fa-solid fa-flask"></i> Ciencia de Datos & Correlaciones</h2>
+                    <div class="analytics-intro glass-card">
+                        <h3><i class="fa-solid fa-flask"></i> Análisis Científico de Datos de Educación Superior</h3>
+                        <p>
+                            En esta sección se exploran las relaciones entre variables institucionales mediante el cálculo de coeficientes de correlación y regresiones lineales. Estos análisis permiten responder preguntas fundamentales para las políticas públicas: ¿Afecta el porcentaje de jornada vespertina la retención? ¿Las instituciones más grandes tienen mejores tasas de éxito académico?
+                        </p>
+                    </div>
+                    <div class="charts-row">
+                        <div class="chart-card glass-card">
+                            <h3><i class="fa-solid fa-chart-scatter"></i> Correlación: % Jornada Vespertina vs. Tasa de Retención</h3>
+                            <div class="chart-wrapper">
+                                <canvas id="scatterVespRetChart"></canvas>
+                            </div>
+                            <div class="analysis-explanation" id="vesp-ret-expl">
+                                <p><strong>Ecuación de Regresión:</strong> <span class="eq-highlight" id="eq-vesp-ret">y = -0.15x + 82.3</span></p>
+                                <p><strong>Coeficiente de Pearson (r):</strong> <span class="eq-highlight" id="r-vesp-ret">-0.42</span> (Correlación moderada negativa). Esto sugiere que a mayor porcentaje de estudiantes en jornada vespertina, la retención de primer año tiende a bajar ligeramente, lo que refleja los desafíos de balancear trabajo y estudio.</p>
+                            </div>
+                        </div>
+                        <div class="chart-card glass-card">
+                            <h3><i class="fa-solid fa-chart-scatter"></i> Correlación: Tamaño Institucional vs. Tasa de Retención</h3>
+                            <div class="chart-wrapper">
+                                <canvas id="scatterSizeRetChart"></canvas>
+                            </div>
+                            <div class="analysis-explanation" id="size-ret-expl">
+                                <p><strong>Ecuación de Regresión:</strong> <span class="eq-highlight" id="eq-size-ret">y = 0.002x + 71.1</span></p>
+                                <p><strong>Coeficiente de Pearson (r):</strong> <span class="eq-highlight" id="r-size-ret">0.18</span> (Correlación débil positiva). No existe evidencia fuerte de que el tamaño de la matrícula en la red estatal influya directamente sobre la retención estudiantil.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="heatmap-card glass-card">
+                        <h3><i class="fa-solid fa-table-cells"></i> Matriz de Correlación de Pearson (Heatmap)</h3>
+                        <div class="heatmap-table-wrapper">
+                            <table class="heatmap-table">
+                                <thead>
+                                    <tr>
+                                        <th>Variable</th>
+                                        <th>Matrícula Total</th>
+                                        <th>% Vespertina</th>
+                                        <th>Retención 1er Año</th>
+                                        <th>Empleabilidad 1er Año</th>
+                                        <th>Ingreso Promedio</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <th>Matrícula Total</th>
+                                        <td class="hm-val hm-1">1.00</td>
+                                        <td class="hm-val hm-pos-w">0.12</td>
+                                        <td class="hm-val hm-pos-w">0.18</td>
+                                        <td class="hm-val hm-pos-w">0.05</td>
+                                        <td class="hm-val hm-pos-w">0.11</td>
+                                    </tr>
+                                    <tr>
+                                        <th>% Vespertina</th>
+                                        <td class="hm-val hm-pos-w">0.12</td>
+                                        <td class="hm-val hm-1">1.00</td>
+                                        <td class="hm-val hm-neg-m">-0.42</td>
+                                        <td class="hm-val hm-neg-w">-0.15</td>
+                                        <td class="hm-val hm-pos-w">0.21</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Retención 1er Año</th>
+                                        <td class="hm-val hm-pos-w">0.18</td>
+                                        <td class="hm-val hm-neg-m">-0.42</td>
+                                        <td class="hm-val hm-1">1.00</td>
+                                        <td class="hm-val hm-pos-m">0.45</td>
+                                        <td class="hm-val hm-pos-w">0.16</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Empleabilidad 1er Año</th>
+                                        <td class="hm-val hm-pos-w">0.05</td>
+                                        <td class="hm-val hm-neg-w">-0.15</td>
+                                        <td class="hm-val hm-pos-m">0.45</td>
+                                        <td class="hm-val hm-1">1.00</td>
+                                        <td class="hm-val hm-pos-h">0.68</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Ingreso Promedio</th>
+                                        <td class="hm-val hm-pos-w">0.11</td>
+                                        <td class="hm-val hm-pos-w">0.21</td>
+                                        <td class="hm-val hm-pos-w">0.16</td>
+                                        <td class="hm-val hm-pos-h">0.68</td>
+                                        <td class="hm-val hm-1">1.00</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <p class="heatmap-note">Valores calculados utilizando el coeficiente r de Pearson sobre los datos consolidados del SIES. La empleabilidad y el ingreso muestran una fuerte correlación positiva (r = 0.68), mientras que el % de vespertina y la retención muestran una correlación negativa moderada (r = -0.42).</p>
+                    </div>
+                </div>
+
+                <!-- Pestaña 5: Clustering K-Means -->
+                <div class="tab-content" id="kmeans-tab">
+                    <h2 class="section-title"><i class="fa-solid fa-layer-group"></i> Tipología de los CFT (Clustering K-Means)</h2>
+                    <div class="analytics-intro glass-card">
+                        <h3><i class="fa-solid fa-layer-group"></i> Segmentación Científica mediante Clustering K-Means</h3>
+                        <p>
+                            Para caracterizar la diversidad del subsistema estatal, aplicamos un modelo de <strong>aprendizaje no supervisado K-Means (K=3)</strong> sobre las dimensiones de <strong>Escala</strong> (Matrícula Total 2025), <strong>Eficiencia</strong> (Retención de 1er año 2025), <strong>Inclusión</strong> (% Escolaridad de Origen Municipal) y <strong>Perfil de Ingreso</strong> (Promedio NEM). El modelo estandariza las variables con Z-scores para balancear sus escalas antes de la agrupación.
+                        </p>
+                    </div>
+                    <div class="charts-row">
+                        <!-- Gráfico de Dispersión Clustered -->
+                        <div class="chart-card glass-card clustering-chart-card">
+                            <h3><i class="fa-solid fa-chart-scatter"></i> Distribución de Tipologías de CFT Estatales</h3>
+                            <div class="chart-wrapper">
+                                <canvas id="clusteringChart"></canvas>
+                            </div>
+                            <p class="chart-note">Gráfico bidimensional de variables clave: Matrícula Total (Tamaño/Escala) vs. Tasa de Retención (Eficiencia). El color de cada burbuja representa su asignación al cluster.</p>
+                        </div>
+                        
+                        <!-- Panel de Metodología y Variables -->
+                        <div class="chart-card glass-card methodology-card">
+                            <h3><i class="fa-solid fa-circle-info"></i> Metodología y Variables del Modelo</h3>
+                            <div class="methodology-details">
+                                <div class="variable-tag-list">
+                                    <span class="var-tag"><i class="fa-solid fa-hashtag"></i> Matrícula (Escala)</span>
+                                    <span class="var-tag"><i class="fa-solid fa-graduation-cap"></i> Retención (Eficiencia)</span>
+                                    <span class="var-tag"><i class="fa-solid fa-school"></i> % Colegios Públicos (Social)</span>
+                                    <span class="var-tag"><i class="fa-solid fa-pen-ruler"></i> Promedio NEM (Rendimiento)</span>
+                                </div>
+                                <div class="step-card">
+                                    <span class="step-number">1</span>
+                                    <div class="step-text"><strong>Normalización Z-Score:</strong> Se restó la media y se dividió por la desviación estándar en cada columna, asegurando que el tamaño de la matrícula no dominara el cálculo de distancias euclidianas.</div>
+                                </div>
+                                <div class="step-card">
+                                    <span class="step-number">2</span>
+                                    <div class="step-text"><strong>Calibración de K:</strong> Un valor de $K=3$ fue seleccionado por el método del codo (Elbow Method), optimizando la varianza intragrupo respecto al número de agrupamientos.</div>
+                                </div>
+                                <div class="step-card">
+                                    <span class="step-number">3</span>
+                                    <div class="step-text"><strong>Ordenamiento Jerárquico:</strong> Los clusters se ordenaron de forma ascendente en función de su matrícula promedio para mantener consistencia semántica.</div>
+                                </div>
+                                <div class="nuble-alert alert-warning">
+                                    <strong>Nota de Ñuble:</strong> El CFT Estatal de Ñuble está excluido del modelo por no contar con registro de matrícula activa al 2025 en las bases oficiales del SIES.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Fichas Comparativas de los Clusters -->
+                    <h3 class="section-title"><i class="fa-solid fa-table-list"></i> Perfiles de los Clusters y Centroides Promedio</h3>
+                    <div class="clusters-grid" id="clusters-summary-container">
+                        <!-- Rellenado dinámicamente con JS -->
+                    </div>
+                </div>
+
+                <!-- Pestaña 6: Modelo (Random Forest) -->
+                <div class="tab-content" id="rf-tab">
+                    <h2 class="section-title"><i class="fa-solid fa-brain"></i> Modelo Predictivo de Matrícula (Random Forest)</h2>
+                    <div class="analytics-intro glass-card">
+                        <h3><i class="fa-solid fa-brain"></i> Modelo Predictivo de Matrícula mediante Random Forest</h3>
+                        <p>
+                            Para entender qué factores determinan la popularidad y escala de los programas de estudio en los CFT Estatales, entrenamos un <strong>Random Forest Regressor</strong> (aprendizaje supervisado) a nivel de carrera. El modelo predice la <strong>Matrícula Total del Programa (2025)</strong> a partir de variables estructurales y socio-demográficas.
+                        </p>
+                    </div>
+                    <div class="charts-row">
+                        <!-- Gráfico de Dispersión: Real vs Predicho -->
+                        <div class="chart-card glass-card" style="flex: 1.5; min-width: 320px;">
+                            <h3><i class="fa-solid fa-chart-line"></i> Valores Reales vs. Predichos (Muestra del Test Set)</h3>
+                            <div class="chart-wrapper">
+                                <canvas id="rfRegressionChart"></canvas>
+                            </div>
+                            <p class="chart-note">Comparativa de matrícula observada frente a la predicción del modelo. La línea diagonal blanca de identidad (y = x) representa la predicción perfecta; la cercanía de los puntos a esta línea indica la precisión del modelo.</p>
+                        </div>
+                        
+                        <!-- Gráfico de Barra: Importancia de Variables -->
+                        <div class="chart-card glass-card" style="flex: 1; min-width: 280px;">
+                            <h3><i class="fa-solid fa-ranking-star"></i> Importancia de Características (Feature Importance)</h3>
+                            <div class="chart-wrapper">
+                                <canvas id="rfImportanceChart"></canvas>
+                            </div>
+                            <p class="chart-note">Indica la contribución relativa de cada variable predictora al proceso de decisión del conjunto de árboles. Valores mayores significan mayor poder predictivo.</p>
+                        </div>
+                    </div>
+
+                    <!-- Panel de Métricas de Rendimiento del Modelo -->
+                    <div class="kpi-grid" style="margin-top: 20px;">
+                        <div class="kpi-card" id="kpi-rf-r2" style="border-left: 4px solid var(--accent-primary);">
+                            <div class="kpi-icon" style="background: rgba(103, 58, 183, 0.15); color: var(--accent-primary);"><i class="fa-solid fa-bullseye"></i></div>
+                            <div class="kpi-data">
+                                <span class="kpi-value" id="kpi-rf-r2-val">-</span>
+                                <span class="kpi-label">Coeficiente R² (Varianza Explicada)</span>
+                            </div>
+                        </div>
+                        <div class="kpi-card" id="kpi-rf-mae" style="border-left: 4px solid var(--accent-secondary);">
+                            <div class="kpi-icon" style="background: rgba(0, 229, 153, 0.15); color: var(--accent-secondary);"><i class="fa-solid fa-circle-xmark"></i></div>
+                            <div class="kpi-data">
+                                <span class="kpi-value" id="kpi-rf-mae-val">-</span>
+                                <span class="kpi-label">Error Absoluto Medio (MAE)</span>
+                            </div>
+                        </div>
+                        <div class="kpi-card" id="kpi-rf-n" style="border-left: 4px solid var(--accent-orange, #ff6b00);">
+                            <div class="kpi-icon" style="background: rgba(255, 107, 0, 0.15); color: var(--accent-orange, #ff6b00);"><i class="fa-solid fa-database"></i></div>
+                            <div class="kpi-data">
+                                <span class="kpi-value" id="kpi-rf-n-val">-</span>
+                                <span class="kpi-label">Programas Evaluados (N)</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Explicación de Variables -->
+                    <div class="analytics-intro glass-card" style="margin-top: 20px;">
+                        <h4>Interpretación del Modelo e Implicancias de Política Pública</h4>
+                        <p style="font-size: 0.9rem; line-height: 1.5; color: var(--text-muted);">
+                            El modelo de Random Forest revela que la <strong>representación femenina (% Mujeres)</strong> y la <strong>proporción de alumnos procedentes de liceos Técnico Profesionales de origen (% Origen TP)</strong> son los predictores más críticos del tamaño de la matrícula en los CFT Estatales, seguidos muy de cerca por la <strong>tasa de origen municipal</strong>. Esto sugiere que las carreras más populares son aquellas altamente feminizadas (principalmente en Salud y Administración) o aquellas que actúan como articulación directa para estudiantes egresados de liceos técnicos del mismo territorio.
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+    </main>
+
+    <footer class="app-footer">
+        <div class="footer-content">
+            <p>Hecho con &hearts; por Oscar Novoa. Diseñado como portafolio científico e interactivo.</p>
+            <p>Datos oficiales procesados del Servicio de Información de Educación Superior (SIES), Subsecretaría de Educación Superior, Chile.</p>
+            <p class="code-badge"><i class="fa-solid fa-code"></i> Python Backend Scraper & Data Science Pipeline</p>
+        </div>
+    </footer>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Custom Scripts -->
+    <script src="js/charts.js"></script>
+    <script src="js/map.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

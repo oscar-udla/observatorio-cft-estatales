@@ -1,0 +1,205 @@
+{
+  "clusters": [
+    {
+      "id": 0,
+      "name": "CFTs Emergentes / Escala Local",
+      "description": "Centros con matrículas más acotadas y cobertura local. Presentan una alta focalización territorial y una proporción destacada de estudiantes provenientes de educación municipal o pública.",
+      "color_hex": "#f97316",
+      "color_hsl": "24, 90%, 55%",
+      "avg_matricula": 633.2,
+      "avg_retencion": 34.1,
+      "avg_municipal": 63.0,
+      "avg_nem": 5.58,
+      "members_count": 6,
+      "members": [
+        "cft_antofagasta",
+        "cft_atacama",
+        "cft_metropolitana",
+        "cft_biobio",
+        "cft_los_lagos",
+        "cft_aysen"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "CFTs Consolidados de Escala Intermedia",
+      "description": "Centros medianos en proceso de consolidación operativa. Ofrecen un balance entre matrícula estable, retención estudiantil y una procedencia mixta de colegios municipales y particulares subvencionados.",
+      "color_hex": "#a78bfa",
+      "color_hsl": "255, 75%, 65%",
+      "avg_matricula": 1349.7,
+      "avg_retencion": 33.4,
+      "avg_municipal": 60.7,
+      "avg_nem": 5.67,
+      "members_count": 6,
+      "members": [
+        "cft_tarapaca",
+        "cft_coquimbo",
+        "cft_ohiggins",
+        "cft_maule",
+        "cft_los_rios",
+        "cft_magallanes"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Centros Estatales de Alta Escala y Eficiencia",
+      "description": "Centros de gran escala de matrícula con excelentes tasas de retención de primer año. Muestran alta demanda académica y lideran en consolidación de infraestructura y retención.",
+      "color_hex": "#10b981",
+      "color_hsl": "165, 80%, 42%",
+      "avg_matricula": 2212.0,
+      "avg_retencion": 45.6,
+      "avg_municipal": 56.9,
+      "avg_nem": 5.6,
+      "members_count": 3,
+      "members": [
+        "cft_arica",
+        "cft_valparaiso",
+        "cft_araucania"
+      ]
+    }
+  ],
+  "cft_assignments": {
+    "cft_arica": {
+      "cluster_id": 2,
+      "cluster_name": "Centros Estatales de Alta Escala y Eficiencia",
+      "cluster_color": "#10b981",
+      "matricula": 2816,
+      "retencion": 34.7,
+      "municipal_pct": 54.5,
+      "nem": 5.62
+    },
+    "cft_tarapaca": {
+      "cluster_id": 1,
+      "cluster_name": "CFTs Consolidados de Escala Intermedia",
+      "cluster_color": "#a78bfa",
+      "matricula": 1778,
+      "retencion": 35.4,
+      "municipal_pct": 31.6,
+      "nem": 5.68
+    },
+    "cft_antofagasta": {
+      "cluster_id": 0,
+      "cluster_name": "CFTs Emergentes / Escala Local",
+      "cluster_color": "#f97316",
+      "matricula": 526,
+      "retencion": 31.0,
+      "municipal_pct": 79.4,
+      "nem": 5.6
+    },
+    "cft_atacama": {
+      "cluster_id": 0,
+      "cluster_name": "CFTs Emergentes / Escala Local",
+      "cluster_color": "#f97316",
+      "matricula": 402,
+      "retencion": 29.95,
+      "municipal_pct": 87.3,
+      "nem": 5.64
+    },
+    "cft_coquimbo": {
+      "cluster_id": 1,
+      "cluster_name": "CFTs Consolidados de Escala Intermedia",
+      "cluster_color": "#a78bfa",
+      "matricula": 1496,
+      "retencion": 31.2,
+      "municipal_pct": 63.4,
+      "nem": 5.65
+    },
+    "cft_valparaiso": {
+      "cluster_id": 2,
+      "cluster_name": "Centros Estatales de Alta Escala y Eficiencia",
+      "cluster_color": "#10b981",
+      "matricula": 1934,
+      "retencion": 63.55,
+      "municipal_pct": 40.1,
+      "nem": 5.59
+    },
+    "cft_metropolitana": {
+      "cluster_id": 0,
+      "cluster_name": "CFTs Emergentes / Escala Local",
+      "cluster_color": "#f97316",
+      "matricula": 959,
+      "retencion": 27.95,
+      "municipal_pct": 45.9,
+      "nem": 5.58
+    },
+    "cft_ohiggins": {
+      "cluster_id": 1,
+      "cluster_name": "CFTs Consolidados de Escala Intermedia",
+      "cluster_color": "#a78bfa",
+      "matricula": 1599,
+      "retencion": 37.7,
+      "municipal_pct": 68.6,
+      "nem": 5.63
+    },
+    "cft_maule": {
+      "cluster_id": 1,
+      "cluster_name": "CFTs Consolidados de Escala Intermedia",
+      "cluster_color": "#a78bfa",
+      "matricula": 1447,
+      "retencion": 36.25,
+      "municipal_pct": 68.3,
+      "nem": 5.68
+    },
+    "cft_biobio": {
+      "cluster_id": 0,
+      "cluster_name": "CFTs Emergentes / Escala Local",
+      "cluster_color": "#f97316",
+      "matricula": 635,
+      "retencion": 35.4,
+      "municipal_pct": 57.6,
+      "nem": 5.57
+    },
+    "cft_araucania": {
+      "cluster_id": 2,
+      "cluster_name": "Centros Estatales de Alta Escala y Eficiencia",
+      "cluster_color": "#10b981",
+      "matricula": 1886,
+      "retencion": 38.5,
+      "municipal_pct": 76.2,
+      "nem": 5.58
+    },
+    "cft_los_rios": {
+      "cluster_id": 1,
+      "cluster_name": "CFTs Consolidados de Escala Intermedia",
+      "cluster_color": "#a78bfa",
+      "matricula": 1596,
+      "retencion": 29.15,
+      "municipal_pct": 50.2,
+      "nem": 5.65
+    },
+    "cft_los_lagos": {
+      "cluster_id": 0,
+      "cluster_name": "CFTs Emergentes / Escala Local",
+      "cluster_color": "#f97316",
+      "matricula": 644,
+      "retencion": 35.45,
+      "municipal_pct": 65.0,
+      "nem": 5.5
+    },
+    "cft_aysen": {
+      "cluster_id": 0,
+      "cluster_name": "CFTs Emergentes / Escala Local",
+      "cluster_color": "#f97316",
+      "matricula": 633,
+      "retencion": 44.8,
+      "municipal_pct": 42.8,
+      "nem": 5.58
+    },
+    "cft_magallanes": {
+      "cluster_id": 1,
+      "cluster_name": "CFTs Consolidados de Escala Intermedia",
+      "cluster_color": "#a78bfa",
+      "matricula": 182,
+      "retencion": 30.4,
+      "municipal_pct": 82.1,
+      "nem": 5.74
+    }
+  },
+  "variables_utilizadas": [
+    "matricula",
+    "retencion",
+    "municipal_pct",
+    "nem"
+  ],
+  "metodologia": "Modelo K-Means (K=3) ejecutado sobre datos SIES 2025. Los datos fueron normalizados usando Z-scores. Los clusters se ordenaron de menor a mayor en función de la matrícula promedio."
+}

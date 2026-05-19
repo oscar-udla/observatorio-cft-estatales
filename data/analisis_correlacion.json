@@ -1,0 +1,194 @@
+{
+  "coeficientes": {
+    "vespertina_vs_retencion": 0.137,
+    "matricula_total_vs_retencion": 0.077,
+    "retencion_vs_empleabilidad": -0.056
+  },
+  "p_valores": {
+    "vespertina_vs_retencion": 0.6265,
+    "matricula_total_vs_retencion": 0.7863,
+    "retencion_vs_empleabilidad": 0.8436
+  },
+  "graficos": {
+    "vespertina_vs_retencion": {
+      "puntos": [
+        {
+          "label": "cft_arica",
+          "x": 56.31,
+          "y": 70.7
+        },
+        {
+          "label": "cft_tarapaca",
+          "x": 63.46,
+          "y": 68.0
+        },
+        {
+          "label": "cft_antofagasta",
+          "x": 67.09,
+          "y": 61.3
+        },
+        {
+          "label": "cft_atacama",
+          "x": 62.91,
+          "y": 59.4
+        },
+        {
+          "label": "cft_coquimbo",
+          "x": 54.24,
+          "y": 64.1
+        },
+        {
+          "label": "cft_valparaiso",
+          "x": 52.52,
+          "y": 64.8
+        },
+        {
+          "label": "cft_metropolitana",
+          "x": 92.42,
+          "y": 57.3
+        },
+        {
+          "label": "cft_ohiggins",
+          "x": 49.79,
+          "y": 76.5
+        },
+        {
+          "label": "cft_maule",
+          "x": 70.29,
+          "y": 73.4
+        },
+        {
+          "label": "cft_biobio",
+          "x": 57.6,
+          "y": 71.3
+        },
+        {
+          "label": "cft_araucania",
+          "x": 63.72,
+          "y": 78.2
+        },
+        {
+          "label": "cft_los_rios",
+          "x": 74.87,
+          "y": 58.9
+        },
+        {
+          "label": "cft_los_lagos",
+          "x": 80.68,
+          "y": 71.7
+        },
+        {
+          "label": "cft_aysen",
+          "x": 100.0,
+          "y": 90.4
+        },
+        {
+          "label": "cft_magallanes",
+          "x": 82.04,
+          "y": 62.1
+        }
+      ],
+      "linea_regresion": [
+        {
+          "x": 49.79,
+          "y": 67.0
+        },
+        {
+          "x": 100.0,
+          "y": 71.12
+        }
+      ],
+      "ecuacion": "y = 0.082x + 62.9"
+    },
+    "size_vs_retencion": {
+      "puntos": [
+        {
+          "label": "cft_arica",
+          "x": 2669.0,
+          "y": 70.7
+        },
+        {
+          "label": "cft_tarapaca",
+          "x": 1549.0,
+          "y": 68.0
+        },
+        {
+          "label": "cft_antofagasta",
+          "x": 471.0,
+          "y": 61.3
+        },
+        {
+          "label": "cft_atacama",
+          "x": 337.0,
+          "y": 59.4
+        },
+        {
+          "label": "cft_coquimbo",
+          "x": 1440.0,
+          "y": 64.1
+        },
+        {
+          "label": "cft_valparaiso",
+          "x": 1550.0,
+          "y": 64.8
+        },
+        {
+          "label": "cft_metropolitana",
+          "x": 409.0,
+          "y": 57.3
+        },
+        {
+          "label": "cft_ohiggins",
+          "x": 972.0,
+          "y": 76.5
+        },
+        {
+          "label": "cft_maule",
+          "x": 1259.0,
+          "y": 73.4
+        },
+        {
+          "label": "cft_biobio",
+          "x": 592.0,
+          "y": 71.3
+        },
+        {
+          "label": "cft_araucania",
+          "x": 1480.0,
+          "y": 78.2
+        },
+        {
+          "label": "cft_los_rios",
+          "x": 1297.0,
+          "y": 58.9
+        },
+        {
+          "label": "cft_los_lagos",
+          "x": 528.0,
+          "y": 71.7
+        },
+        {
+          "label": "cft_aysen",
+          "x": 321.0,
+          "y": 90.4
+        },
+        {
+          "label": "cft_magallanes",
+          "x": 167.0,
+          "y": 62.1
+        }
+      ],
+      "linea_regresion": [
+        {
+          "x": 167.0,
+          "y": 67.71
+        },
+        {
+          "x": 2669.0,
+          "y": 70.2
+        }
+      ],
+      "ecuacion": "y = 0.001x + 67.5"
+    }
+  }
+}
